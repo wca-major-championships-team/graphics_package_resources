@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176.77 176.77">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c62535;
+      }
+
+      .cls-2 {
+        fill: #029347;
+      }
+
+      .cls-3 {
+        fill: #ffd313;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #ff5800;
+      }
+
+      .cls-6 {
+        fill: #0051ba;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect width="176.77" height="176.77" rx="10.07" ry="10.07"/>
+      <g>
+        <rect id="rect218" class="cls-4" x="13.98" y="12.79" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect220" class="cls-6" x="36.16" y="12.79" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect222" class="cls-1" x="13.98" y="35.39" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect224" class="cls-4" x="36.16" y="35.39" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect226" class="cls-1" x="58.41" y="12.86" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect228" class="cls-5" x="80.59" y="12.86" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect230" class="cls-5" x="58.41" y="35.45" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect232" class="cls-3" x="80.59" y="35.45" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect234" class="cls-5" x="13.98" y="58.05" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect236" class="cls-4" x="36.16" y="58.05" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect238" class="cls-4" x="13.98" y="80.64" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect240" class="cls-4" x="36.16" y="80.64" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect242" class="cls-2" x="58.41" y="58.05" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect244" class="cls-6" x="80.59" y="58.05" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect246" class="cls-4" x="58.41" y="80.64" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect248" class="cls-3" x="80.59" y="80.64" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect250" class="cls-6" x="102.77" y="12.86" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect252" class="cls-4" x="102.77" y="35.45" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect254" class="cls-5" x="102.77" y="58.05" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect256" class="cls-4" x="102.77" y="80.64" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect258" class="cls-6" x="14.02" y="103.24" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect260" class="cls-3" x="36.2" y="103.24" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect262" class="cls-5" x="58.45" y="103.24" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect264" class="cls-5" x="80.63" y="103.24" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect266" class="cls-1" x="102.81" y="103.24" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect268" class="cls-6" x="124.99" y="12.86" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect270" class="cls-4" x="124.99" y="35.45" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect272" class="cls-5" x="124.99" y="58.05" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect274" class="cls-2" x="124.99" y="80.64" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect276" class="cls-2" x="147.17" y="12.86" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect278" class="cls-3" x="147.17" y="35.45" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect280" class="cls-5" x="147.17" y="58.05" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect282" class="cls-6" x="147.17" y="80.64" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect284" class="cls-5" x="125.02" y="103.24" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect286" class="cls-1" x="147.2" y="103.24" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect288" class="cls-2" x="14.02" y="125.84" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect290" class="cls-5" x="36.2" y="125.84" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect292" class="cls-2" x="58.45" y="125.84" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect294" class="cls-3" x="80.63" y="125.84" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect296" class="cls-3" x="102.81" y="125.84" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect298" class="cls-2" x="14.06" y="148.43" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect300" class="cls-4" x="36.24" y="148.43" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect302" class="cls-3" x="58.49" y="148.43" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect304" class="cls-2" x="80.66" y="148.43" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect306" class="cls-5" x="102.84" y="148.43" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect308" class="cls-3" x="125.02" y="125.84" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect310" class="cls-4" x="147.2" y="125.84" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect312" class="cls-2" x="125.06" y="148.43" width="15.55" height="15.55" rx="2" ry="2"/>
+        <rect id="rect314" class="cls-6" x="147.24" y="148.43" width="15.55" height="15.55" rx="2" ry="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

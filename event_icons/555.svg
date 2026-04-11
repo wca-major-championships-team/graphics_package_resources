@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176.77 176.77">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c62535;
+      }
+
+      .cls-2 {
+        fill: #029347;
+      }
+
+      .cls-3 {
+        fill: #ffd313;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #ff5800;
+      }
+
+      .cls-6 {
+        fill: #0051ba;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <rect width="176.77" height="176.77" rx="10.07" ry="10.07"/>
+      <g>
+        <rect id="rect82" class="cls-6" x="13.94" y="12.77" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect84" class="cls-1" x="45.97" y="12.77" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect86" class="cls-2" x="13.94" y="45.4" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect88" class="cls-3" x="45.97" y="45.4" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect90" class="cls-2" x="78.1" y="12.86" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect92" class="cls-4" x="110.13" y="12.87" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect94" class="cls-3" x="78.1" y="45.49" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect96" class="cls-1" x="110.13" y="45.5" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect98" class="cls-2" x="13.94" y="78.12" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect100" class="cls-4" x="45.97" y="78.12" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect102" class="cls-3" x="13.94" y="110.75" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect104" class="cls-2" x="45.97" y="110.75" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect106" class="cls-5" x="78.1" y="78.12" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect108" class="cls-6" x="110.13" y="78.12" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect110" class="cls-4" x="78.1" y="110.75" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect112" class="cls-1" x="110.13" y="110.75" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect114" class="cls-2" x="142.16" y="12.87" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect116" class="cls-1" x="142.16" y="45.5" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect118" class="cls-3" x="142.16" y="78.12" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect120" class="cls-3" x="142.16" y="110.75" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect122" class="cls-4" x="13.99" y="143.38" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect124" class="cls-2" x="46.02" y="143.39" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect126" class="cls-2" x="78.15" y="143.38" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect128" class="cls-2" x="110.18" y="143.39" width="20.62" height="20.62" rx="2" ry="2"/>
+        <rect id="rect130" class="cls-5" x="142.21" y="143.39" width="20.62" height="20.62" rx="2" ry="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+[
+  { "id": "333", "title": "3x3x3 Cube" },
+  { "id": "222", "title": "2x2x2 Cube" },
+  { "id": "444", "title": "4x4x4 Cube" },
+  { "id": "555", "title": "5x5x5 Cube" },
+  { "id": "666", "title": "6x6x6 Cube" },
+  { "id": "777", "title": "7x7x7 Cube" },
+  { "id": "333bf", "title": "3x3x3 Blindfolded" },
+  { "id": "333fm", "title": "3x3x3 Fewest Moves" },
+  { "id": "333oh", "title": "3x3x3 One-Handed" },
+  { "id": "clock", "title": "Clock" },
+  { "id": "minx", "title": "Megaminx" },
+  { "id": "pyram", "title": "Pyraminx" },
+  { "id": "skewb", "title": "Skewb" },
+  { "id": "sq1", "title": "Square-1" },
+  { "id": "444bf", "title": "4x4x4 Blindfolded" },
+  { "id": "555bf", "title": "5x5x5 Blindfolded" },
+  { "id": "333mbf", "title": "3x3x3 Multiple Blindfolded" }
+]

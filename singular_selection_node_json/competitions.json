@@ -1,5 +1,9 @@
 [
   {
+    "id": 0,
+    "title": "EMPTY"
+  },
+  {
     "id": "10370",
     "title": "1 Shamelin Cube Open 2026"
   },
@@ -3210,9 +3214,5 @@
   {
     "id": "10074",
     "title": "Zoioff Campinas 2026"
-  },
-  {
-    "id": 0,
-    "title": "EMPTY"
   }
 ]

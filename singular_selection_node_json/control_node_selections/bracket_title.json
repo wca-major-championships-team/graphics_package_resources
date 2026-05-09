@@ -1,0 +1,24 @@
+[
+  {
+    "id": "Show Event",
+    "title": "Show Event",
+    "payload": {
+      "Logo Size Y": 13,
+      "Title Group Size Y": 17.2,
+      "Title Size Y": 64.06,
+      "Title Position Y": 0,
+      "Show Event": false
+    }
+  },
+{
+    "id": "Hide Event",
+    "title": "Hide Event",
+    "payload": {
+      "Logo Size Y": 6.5,
+      "Title Group Size Y": 23.2,
+      "Title Size Y": 47.5,
+      "Title Position Y": -15.2,
+      "Show Event": true
+    }
+  }
+]

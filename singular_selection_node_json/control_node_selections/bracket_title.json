@@ -4,6 +4,7 @@
     "title": "Hide Event",
     "payload": {
       "Logo Size Y": 13,
+      "Logo Position Y": -41.4,
       "Title Group Size Y": 17.2,
       "Title Size Y": 64.06,
       "Title Position Y": 0,
@@ -15,6 +16,7 @@
     "title": "Show Event",
     "payload": {
       "Logo Size Y": 6.5,
+      "Logo Position Y": -43.2,
       "Title Group Size Y": 23.2,
       "Title Size Y": 47.5,
       "Title Position Y": -15.2,

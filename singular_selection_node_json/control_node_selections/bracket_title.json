@@ -1,7 +1,7 @@
 [
   {
-    "id": "Show Event",
-    "title": "Show Event",
+    "id": "Hide Event",
+    "title": "Hide Event",
     "payload": {
       "Logo Size Y": 13,
       "Title Group Size Y": 17.2,
@@ -11,8 +11,8 @@
     }
   },
 {
-    "id": "Hide Event",
-    "title": "Hide Event",
+    "id": "Show Event",
+    "title": "Show Event",
     "payload": {
       "Logo Size Y": 6.5,
       "Title Group Size Y": 23.2,

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "Show Label",
+    "title": "Show Label",
+    "payload": {
+      "Show Label": true,
+      "Hide Label": false
+    }
+  },
+{
+    "id": "Hide Label",
+    "title": "Hide Label",
+    "payload": {
+      "Show Label": false,
+      "Hide Label": true
+    }
+  }
+]

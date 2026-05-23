@@ -60,10 +60,6 @@
     "title": "Adelaide Autumn 2026"
   },
   {
-    "id": "9926",
-    "title": "Agra Cube Open 2026"
-  },
-  {
     "id": "10642",
     "title": "Aland Open 2026"
   },
@@ -276,6 +272,10 @@
     "title": "Big Cube Open Hyderabad April 2026"
   },
   {
+    "id": "10714",
+    "title": "Big Cube Time Brisbane 2026"
+  },
+  {
     "id": "10121",
     "title": "Big N Blind Bangalore March 2026"
   },
@@ -380,10 +380,6 @@
     "title": "Brown County Blitz 2026"
   },
   {
-    "id": "9938",
-    "title": "Brown Cubing Day 2026"
-  },
-  {
     "id": "10450",
     "title": "BUBT Cube Open 2026"
   },
@@ -402,10 +398,6 @@
   {
     "id": "10557",
     "title": "Bull City Big Cubes NC 2026"
-  },
-  {
-    "id": "9881",
-    "title": "Burnaby Winter 2026"
   },
   {
     "id": "10265",
@@ -530,10 +522,6 @@
   {
     "id": "10250",
     "title": "Cicha Sobota w Łodzi 2026"
-  },
-  {
-    "id": "9929",
-    "title": "Cincinnati Speedsolving 2026"
   },
   {
     "id": "10695",
@@ -788,10 +776,6 @@
     "title": "Cubing Tibas 2026"
   },
   {
-    "id": "9476",
-    "title": "Cubing with Dinosaurs Lehi 2026"
-  },
-  {
     "id": "10556",
     "title": "CubingUSA Heartland Championship 2026"
   },
@@ -806,10 +790,6 @@
   {
     "id": "10062",
     "title": "Cucuta Library Open 2026"
-  },
-  {
-    "id": "9939",
-    "title": "Cuenca Open 2026"
   },
   {
     "id": "10317",
@@ -924,10 +904,6 @@
     "title": "Dolne Oresany Open 2026"
   },
   {
-    "id": "9946",
-    "title": "Don't DNF Davis 2026"
-  },
-  {
     "id": "10357",
     "title": "Don't Go Slow in Wicklow 2026"
   },
@@ -1006,10 +982,6 @@
   {
     "id": "9914",
     "title": "Falkirk Beginners 2026"
-  },
-  {
-    "id": "9913",
-    "title": "Falkirk Open 2026"
   },
   {
     "id": "10477",
@@ -1196,10 +1168,6 @@
     "title": "Głuszyca Open 2026"
   },
   {
-    "id": "9931",
-    "title": "Gobbler Cube Day Winter at VT 2026"
-  },
-  {
     "id": "9985",
     "title": "Good Solves in Gibson Park 2026"
   },
@@ -1254,10 +1222,6 @@
   {
     "id": "10150",
     "title": "Guam Open 2026"
-  },
-  {
-    "id": "9910",
-    "title": "Guara Garage 2026"
   },
   {
     "id": "10395",
@@ -1436,6 +1400,10 @@
     "title": "Johnshhhtown 2026"
   },
   {
+    "id": "10713",
+    "title": "Joinville Open by Mueller 2026"
+  },
+  {
     "id": "10334",
     "title": "Jonava Open 2026"
   },
@@ -1470,10 +1438,6 @@
   {
     "id": "10527",
     "title": "Kanto Spring 2026"
-  },
-  {
-    "id": "9781",
-    "title": "Kanto Winter 2026"
   },
   {
     "id": "10298",
@@ -1532,10 +1496,6 @@
     "title": "Kublordag Jonkoping XI - 2026"
   },
   {
-    "id": "9943",
-    "title": "Kublordag Uppsala IV - 2026"
-  },
-  {
     "id": "10354",
     "title": "Kublordag Uppsala V - 2026"
   },
@@ -1550,10 +1510,6 @@
   {
     "id": "10078",
     "title": "La Caceria GT 2026"
-  },
-  {
-    "id": "9937",
-    "title": "LA Low and Slow 2026"
   },
   {
     "id": "10268",
@@ -1854,10 +1810,6 @@
   {
     "id": "10487",
     "title": "Mirasierra Open 2026"
-  },
-  {
-    "id": "9945",
-    "title": "Mohawk Valley Winter 2026"
   },
   {
     "id": "10692",
@@ -2248,10 +2200,6 @@
     "title": "PBQtah 9 2026"
   },
   {
-    "id": "9932",
-    "title": "PBs in Palisades Open 2026"
-  },
-  {
     "id": "10295",
     "title": "PBs in Palisades Spring 2026"
   },
@@ -2328,10 +2276,6 @@
     "title": "Pocatello Potato Palooza 2026"
   },
   {
-    "id": "9731",
-    "title": "Pocos Cupos Bogota XXII 2026"
-  },
-  {
     "id": "10049",
     "title": "Pocos Cupos Bogota XXIII 2026"
   },
@@ -2402,10 +2346,6 @@
   {
     "id": "10641",
     "title": "Pulmapelipaivat 2026"
-  },
-  {
-    "id": "9917",
-    "title": "Pune Spring Open 2026"
   },
   {
     "id": "10208",
@@ -2880,10 +2820,6 @@
     "title": "Tomelloso Open 2026"
   },
   {
-    "id": "9919",
-    "title": "Torrelodones Open 2026"
-  },
-  {
     "id": "10212",
     "title": "Trebolis El Porvenir Bogota II 2026"
   },
@@ -2998,10 +2934,6 @@
   {
     "id": "10633",
     "title": "UnOrono-thodox Blocks 2026"
-  },
-  {
-    "id": "9930",
-    "title": "Unorthodox Blocks 5 CO 2026"
   },
   {
     "id": "10222",
@@ -3186,6 +3118,10 @@
   {
     "id": "10595",
     "title": "Welcome Back Hamilton 2026"
+  },
+  {
+    "id": "10712",
+    "title": "Welcome Back UPDS 2026"
   },
   {
     "id": "10467",

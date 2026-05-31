@@ -240,10 +240,6 @@
     "title": "Bergen Spring 2026"
   },
   {
-    "id": "10001",
-    "title": "Berkeley Favorites 2026"
-  },
-  {
     "id": "10018",
     "title": "Berkeley March Weekday 2026"
   },
@@ -314,10 +310,6 @@
   {
     "id": "10044",
     "title": "Bowling Green Spring 2026"
-  },
-  {
-    "id": "10009",
-    "title": "Bozen Open 2026"
   },
   {
     "id": "10231",
@@ -676,10 +668,6 @@
     "title": "Cube4fun Lublin Spring 2026"
   },
   {
-    "id": "10023",
-    "title": "Cubeando en El Cubo Z 2026"
-  },
-  {
     "id": "9986",
     "title": "Cubes Shipment Israel 2026"
   },
@@ -830,10 +818,6 @@
   {
     "id": "10081",
     "title": "DC Hyderabad Open March D 2026"
-  },
-  {
-    "id": "9989",
-    "title": "Delhi Cube Open 2026"
   },
   {
     "id": "10217",
@@ -1176,10 +1160,6 @@
     "title": "Głuszyca Open 2026"
   },
   {
-    "id": "9985",
-    "title": "Good Solves in Gibson Park 2026"
-  },
-  {
     "id": "10037",
     "title": "Gort-a Go Fast 2026"
   },
@@ -1244,10 +1224,6 @@
     "title": "Halkida Spring Open 2026"
   },
   {
-    "id": "9996",
-    "title": "Hameenlinna 2026"
-  },
-  {
     "id": "10612",
     "title": "Hamoye Jinju 2026"
   },
@@ -1302,10 +1278,6 @@
   {
     "id": "10756",
     "title": "Hungarian All-Rounder 4 2026"
-  },
-  {
-    "id": "10006",
-    "title": "Hungarian FMC Series 2 2026"
   },
   {
     "id": "10646",
@@ -1564,10 +1536,6 @@
     "title": "Lets Go Back to Carlow 2026"
   },
   {
-    "id": "9969",
-    "title": "Liberty Science Center Open B 2026"
-  },
-  {
     "id": "10684",
     "title": "Lierganes Open 2026"
   },
@@ -1640,10 +1608,6 @@
     "title": "Mada King of Cube 2026"
   },
   {
-    "id": "10024",
-    "title": "Madison Manor PBQ 2026"
-  },
-  {
     "id": "10753",
     "title": "Magnolia State Cubing 2026"
   },
@@ -1662,10 +1626,6 @@
   {
     "id": "10534",
     "title": "Malegno MegaOpen 2026"
-  },
-  {
-    "id": "9992",
-    "title": "Malmo Cubing Open 2026"
   },
   {
     "id": "10439",
@@ -1832,16 +1792,16 @@
     "title": "Mirasierra Open 2026"
   },
   {
+    "id": "10776",
+    "title": "Miri Seahorse STEM Cube Open 2026"
+  },
+  {
     "id": "10692",
     "title": "Mombasa Twist & Turn 2026"
   },
   {
     "id": "10270",
     "title": "Moncton 2026"
-  },
-  {
-    "id": "10013",
-    "title": "Monte Grande for Fun 2026"
   },
   {
     "id": "10041",
@@ -1858,10 +1818,6 @@
   {
     "id": "10582",
     "title": "MoT Cube Open 2026"
-  },
-  {
-    "id": "9981",
-    "title": "Moura Lacerda Open 2026"
   },
   {
     "id": "10344",
@@ -2076,10 +2032,6 @@
     "title": "NZ Cubing Heptathlon 2026"
   },
   {
-    "id": "9984",
-    "title": "NZ North Island Championship 2026"
-  },
-  {
     "id": "10332",
     "title": "NZ South Island Championship 2026"
   },
@@ -2120,6 +2072,10 @@
     "title": "Only 3x3s in Hyderabad May 2026"
   },
   {
+    "id": "10777",
+    "title": "Only Cubes in ABQ 2026"
+  },
+  {
     "id": "10201",
     "title": "Only Cubes in Scarborough 2026"
   },
@@ -2148,10 +2104,6 @@
     "title": "Oruro Open 10th Anniversary 2026"
   },
   {
-    "id": "9999",
-    "title": "Osijek Open 2026"
-  },
-  {
     "id": "10504",
     "title": "Oslo Open 2026"
   },
@@ -2162,10 +2114,6 @@
   {
     "id": "10320",
     "title": "Ottawa Spring 2026"
-  },
-  {
-    "id": "9830",
-    "title": "Palencia con P de Pyraminx 2026"
   },
   {
     "id": "10772",
@@ -2404,10 +2352,6 @@
     "title": "Qualifying Cougars WV 2026"
   },
   {
-    "id": "9916",
-    "title": "Quanzhou Big Cubes 2026"
-  },
-  {
     "id": "10106",
     "title": "Quick Q.bing Q.lisse 2026"
   },
@@ -2466,10 +2410,6 @@
   {
     "id": "10116",
     "title": "Riccarton Newcomer Rumble 2026"
-  },
-  {
-    "id": "10016",
-    "title": "Richardshhhon 2026"
   },
   {
     "id": "10278",
@@ -2752,10 +2692,6 @@
     "title": "Sumgait Summer Open 2026"
   },
   {
-    "id": "9823",
-    "title": "Summer of the Cube Huancayo 2026"
-  },
-  {
     "id": "10574",
     "title": "Surat Cube Open 2026"
   },
@@ -2786,10 +2722,6 @@
   {
     "id": "10750",
     "title": "Sydals Open 2026"
-  },
-  {
-    "id": "10008",
-    "title": "SzczeciNxN 2026"
   },
   {
     "id": "10148",
@@ -2910,14 +2842,6 @@
   {
     "id": "10489",
     "title": "UCOM Paraguay 2026"
-  },
-  {
-    "id": "9960",
-    "title": "UCSD March A 2026"
-  },
-  {
-    "id": "9961",
-    "title": "UCSD March B 2026"
   },
   {
     "id": "10266",
@@ -3248,10 +3172,6 @@
     "title": "Winnipeg Spring 2026"
   },
   {
-    "id": "10011",
-    "title": "WIW at Opole 2026"
-  },
-  {
     "id": "10384",
     "title": "WLS Kwiecien 2026"
   },
@@ -3282,10 +3202,6 @@
   {
     "id": "10301",
     "title": "Xi'an Cherry Blossom 2026"
-  },
-  {
-    "id": "9879",
-    "title": "XMUM Cube Open 2026"
   },
   {
     "id": "10056",

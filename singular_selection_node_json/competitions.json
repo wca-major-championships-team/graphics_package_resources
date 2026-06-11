@@ -8,8 +8,24 @@
     "title": "1 Shamelin Cube Open 2026"
   },
   {
+    "id": "10645",
+    "title": "19 Mayıs Loba Ankara 2026"
+  },
+  {
+    "id": "10677",
+    "title": "19 Mayıs Samsun 2026"
+  },
+  {
     "id": "10507",
     "title": "3x3 in Madison 2026"
+  },
+  {
+    "id": "10656",
+    "title": "3x3x3 un Nekas Cits Riga 2026"
+  },
+  {
+    "id": "10739",
+    "title": "4x4x4 & Sides at UBC 2026"
   },
   {
     "id": "10453",
@@ -20,12 +36,16 @@
     "title": "75 Por Ciento Bogota 2026"
   },
   {
+    "id": "10780",
+    "title": "75 por Ciento Sumerce 2026"
+  },
+  {
     "id": "10454",
     "title": "7x7 Off I-70 MO 2026"
   },
   {
-    "id": "10010",
-    "title": "Aalborg Special 2026"
+    "id": "10662",
+    "title": "Aalborg Spring 2026"
   },
   {
     "id": "10440",
@@ -36,16 +56,16 @@
     "title": "ACA 11th Anniversary Baku 2026"
   },
   {
+    "id": "10774",
+    "title": "ACA Cube Fest Baku 2026"
+  },
+  {
     "id": "10496",
     "title": "Achacachi Speedcubing Open 2026"
   },
   {
     "id": "10363",
     "title": "Adelaide Autumn 2026"
-  },
-  {
-    "id": "9926",
-    "title": "Agra Cube Open 2026"
   },
   {
     "id": "10642",
@@ -88,20 +108,16 @@
     "title": "Amman Spring B 2026"
   },
   {
-    "id": "9829",
-    "title": "Amore Amorebieta Open 2026"
-  },
-  {
-    "id": "9654",
-    "title": "Amsterdam Open 2026"
-  },
-  {
-    "id": "9903",
-    "title": "Ankara Loba Big Cubes Feb 2026"
-  },
-  {
     "id": "10438",
     "title": "Anyang Haseyo 2026"
+  },
+  {
+    "id": "10688",
+    "title": "Apex Algs Again 2026"
+  },
+  {
+    "id": "10771",
+    "title": "Aquatico Aclimacao Open 2026"
   },
   {
     "id": "10211",
@@ -116,8 +132,16 @@
     "title": "Arriate Open 2026"
   },
   {
-    "id": "9645",
-    "title": "Avenida Chile XXXI 2026"
+    "id": "10657",
+    "title": "Astana Spring 2026"
+  },
+  {
+    "id": "10800",
+    "title": "Audun-le-Tiche Open 2026"
+  },
+  {
+    "id": "10650",
+    "title": "Aveiro Big Cube Day 2026"
   },
   {
     "id": "9887",
@@ -132,8 +156,8 @@
     "title": "Avenida Chile XXXIV 2026"
   },
   {
-    "id": "10067",
-    "title": "Back to Downtown Singapore 2026"
+    "id": "10824",
+    "title": "B-Game - Bastardo Open 2026"
   },
   {
     "id": "10575",
@@ -144,8 +168,8 @@
     "title": "Baja Spring 2026"
   },
   {
-    "id": "9853",
-    "title": "Baja Warm Up I 2026"
+    "id": "10728",
+    "title": "Baja Summer 2026"
   },
   {
     "id": "10032",
@@ -156,24 +180,16 @@
     "title": "Balam Cubes Semarang Open 2026"
   },
   {
-    "id": "10030",
-    "title": "Bali Mini Speedcubing 2026"
-  },
-  {
-    "id": "9897",
-    "title": "Bara Multi-Blind i Jonkoping 2026"
-  },
-  {
-    "id": "9965",
-    "title": "Barberton Mini 9 2026"
-  },
-  {
     "id": "10569",
     "title": "Barby Cube 2026"
   },
   {
     "id": "10561",
     "title": "Battle of Alberta 2026"
+  },
+  {
+    "id": "10724",
+    "title": "Batumi May Open 2026"
   },
   {
     "id": "10432",
@@ -204,10 +220,6 @@
     "title": "Beginner Big Cubes Ohio 2026"
   },
   {
-    "id": "9936",
-    "title": "Belli in Zona 2026"
-  },
-  {
     "id": "10519",
     "title": "Belmont Spring 2026"
   },
@@ -232,10 +244,6 @@
     "title": "Bergen Spring 2026"
   },
   {
-    "id": "10001",
-    "title": "Berkeley Favorites 2026"
-  },
-  {
     "id": "10018",
     "title": "Berkeley March Weekday 2026"
   },
@@ -252,12 +260,16 @@
     "title": "Berkeley Spring 2026"
   },
   {
-    "id": "10046",
-    "title": "Bern Cubing Festival 2026"
+    "id": "10737",
+    "title": "Beskidy Cubing Days 2026"
   },
   {
     "id": "10419",
     "title": "Big Cube Open Hyderabad April 2026"
+  },
+  {
+    "id": "10714",
+    "title": "Big Cube Time Brisbane 2026"
   },
   {
     "id": "10121",
@@ -272,10 +284,6 @@
     "title": "Bima al Cubo IV Bogota 2026"
   },
   {
-    "id": "9991",
-    "title": "BL&D BLD Binningen 2026"
-  },
-  {
     "id": "10482",
     "title": "Blagoevgrad Open 2026"
   },
@@ -284,16 +292,8 @@
     "title": "Blind in Aveiro 2026"
   },
   {
-    "id": "10007",
-    "title": "Blind League Dobrejovice I: Hearthborn 2026"
-  },
-  {
     "id": "10455",
     "title": "Blind League Dobrejovice II: Crownrise 2026"
-  },
-  {
-    "id": "10071",
-    "title": "Blind Madrid 2026"
   },
   {
     "id": "9886",
@@ -304,16 +304,8 @@
     "title": "Bolton Spring 2026"
   },
   {
-    "id": "10003",
-    "title": "Boquete Big Cubes 2026"
-  },
-  {
     "id": "10044",
     "title": "Bowling Green Spring 2026"
-  },
-  {
-    "id": "10009",
-    "title": "Bozen Open 2026"
   },
   {
     "id": "10231",
@@ -344,8 +336,16 @@
     "title": "Brighton 3x3 Day 2026"
   },
   {
-    "id": "10072",
-    "title": "BrizZon Side Open II 2026"
+    "id": "10752",
+    "title": "Brilliant Ballarat 2026"
+  },
+  {
+    "id": "10747",
+    "title": "Brilliant Big & Blind Bravo Orlando 2026"
+  },
+  {
+    "id": "10781",
+    "title": "Bristol June 2026"
   },
   {
     "id": "10536",
@@ -362,10 +362,6 @@
   {
     "id": "10245",
     "title": "Brown County Blitz 2026"
-  },
-  {
-    "id": "9938",
-    "title": "Brown Cubing Day 2026"
   },
   {
     "id": "10450",
@@ -388,12 +384,12 @@
     "title": "Bull City Big Cubes NC 2026"
   },
   {
-    "id": "9881",
-    "title": "Burnaby Winter 2026"
-  },
-  {
     "id": "10265",
     "title": "Bursins Goes Fast 2026"
+  },
+  {
+    "id": "10778",
+    "title": "Cabo Verde Nationals 2026"
   },
   {
     "id": "10185",
@@ -410,10 +406,6 @@
   {
     "id": "10578",
     "title": "Calgary Please Be Quiet 2026"
-  },
-  {
-    "id": "9594",
-    "title": "Calgary Spring 2026"
   },
   {
     "id": "10501",
@@ -436,12 +428,12 @@
     "title": "Caminos de Guanajuato - Leon 2026"
   },
   {
-    "id": "10282",
-    "title": "Campeonato Brasileiro de Cubo Magico 2026"
+    "id": "10813",
+    "title": "Caminos de Guanajuato - SJI 2026"
   },
   {
-    "id": "9801",
-    "title": "Campeonato de Andalucia 2026"
+    "id": "10282",
+    "title": "Campeonato Brasileiro de Cubo Magico 2026"
   },
   {
     "id": "10494",
@@ -476,6 +468,10 @@
     "title": "Cavite Speedcubing Open XIII 2026"
   },
   {
+    "id": "10654",
+    "title": "CBA Night at the Museum SCZ 2026"
+  },
+  {
     "id": "10412",
     "title": "CBA Open Tarija 2026"
   },
@@ -484,36 +480,48 @@
     "title": "Cervantes Cubea Alcala 2026"
   },
   {
-    "id": "9907",
-    "title": "CF Goes Sideways Brzeziny 2026"
-  },
-  {
     "id": "10541",
     "title": "Championnat Quebecois 2026"
   },
   {
-    "id": "9941",
-    "title": "Chelles Open 2026"
+    "id": "10742",
+    "title": "Cherry Hill Mini May 2026"
+  },
+  {
+    "id": "10664",
+    "title": "Chess & Cubes Madrid Miniopen 2026"
   },
   {
     "id": "10585",
     "title": "Chinchina Open 2026"
   },
   {
+    "id": "10698",
+    "title": "Christchurch Autumn 2026"
+  },
+  {
     "id": "10250",
     "title": "Cicha Sobota w Łodzi 2026"
   },
   {
-    "id": "9929",
-    "title": "Cincinnati Speedsolving 2026"
+    "id": "10695",
+    "title": "Circuito dos Shoppings - Etapa Ponta Negra 2026"
+  },
+  {
+    "id": "10694",
+    "title": "Circuito dos Shoppings - Etapa Sumauma 2026"
   },
   {
     "id": "10458",
     "title": "City of STEM LA 2026"
   },
   {
-    "id": "9825",
-    "title": "Classic Cubing Capelle 2026"
+    "id": "10643",
+    "title": "Claret Open Montevideo II 2026"
+  },
+  {
+    "id": "10672",
+    "title": "Clases de FMC BA I 2026"
   },
   {
     "id": "10100",
@@ -524,12 +532,12 @@
     "title": "CNSE ao Cubo 2026"
   },
   {
-    "id": "9893",
-    "title": "Cœur de Cube Charantonnay 2026"
-  },
-  {
     "id": "10053",
     "title": "Coliseo al Gratin Yumbo 2026"
+  },
+  {
+    "id": "10810",
+    "title": "Colonial Cube Clash VA 2026"
   },
   {
     "id": "10215",
@@ -540,6 +548,14 @@
     "title": "COMO Cube-Off 2026"
   },
   {
+    "id": "10693",
+    "title": "Comodoro Cubea V3 2026"
+  },
+  {
+    "id": "10808",
+    "title": "Cookeville Cube Challenge 2026"
+  },
+  {
     "id": "10603",
     "title": "Cooldown Uppsala 2026"
   },
@@ -548,36 +564,24 @@
     "title": "Copa Soledad Baby Libros 2026"
   },
   {
-    "id": "9921",
-    "title": "Cork Spring 2026"
+    "id": "10792",
+    "title": "Cornhusker Cubing Classic 2026"
   },
   {
-    "id": "9901",
-    "title": "Corning Winter 2026"
+    "id": "10727",
+    "title": "Crewe May 2026"
   },
   {
     "id": "10140",
     "title": "Crewe Spring 2026"
   },
   {
-    "id": "9915",
-    "title": "Crewe Winter 2026"
-  },
-  {
     "id": "10383",
     "title": "Cube Against Cancer - Orange County 2026"
   },
   {
-    "id": "9875",
-    "title": "Cube Against Cancer Arizona 2026"
-  },
-  {
     "id": "10175",
     "title": "Cube Against Cancer Boston 2026"
-  },
-  {
-    "id": "9857",
-    "title": "Cube Against Cancer Brisbane 2026"
   },
   {
     "id": "10216",
@@ -628,12 +632,12 @@
     "title": "Cube Against Cancer Tulsa 2026"
   },
   {
-    "id": "9538",
-    "title": "Cube Camp in Jeju 2026"
-  },
-  {
     "id": "10364",
     "title": "Cube Factory League Jezow 2026"
+  },
+  {
+    "id": "10809",
+    "title": "Cube Factory League Kalisz 2026"
   },
   {
     "id": "10091",
@@ -660,24 +664,16 @@
     "title": "Cube4fun Double Weekend Zbuczyn 2026"
   },
   {
+    "id": "10762",
+    "title": "Cube4fun in Bełchatow 2026"
+  },
+  {
     "id": "10172",
     "title": "Cube4fun in Nowa Sarzyna 2026"
   },
   {
-    "id": "10005",
-    "title": "Cube4fun Lublin February 2026"
-  },
-  {
     "id": "10434",
     "title": "Cube4fun Lublin Spring 2026"
-  },
-  {
-    "id": "10023",
-    "title": "Cubeando en El Cubo Z 2026"
-  },
-  {
-    "id": "9986",
-    "title": "Cubes Shipment Israel 2026"
   },
   {
     "id": "10342",
@@ -724,12 +720,12 @@
     "title": "Cubing in Ruzinov: April 2026"
   },
   {
-    "id": "9301",
-    "title": "Cubing in Ruzinov: March 2026"
-  },
-  {
     "id": "10128",
     "title": "Cubing in the 'Cuse 2026"
+  },
+  {
+    "id": "10689",
+    "title": "Cubing in the Woods OH 2026"
   },
   {
     "id": "10599",
@@ -748,8 +744,16 @@
     "title": "Cubing Returns to Kolkata 2026"
   },
   {
-    "id": "9476",
-    "title": "Cubing with Dinosaurs Lehi 2026"
+    "id": "10817",
+    "title": "Cubing Skills in Bishkek 2026"
+  },
+  {
+    "id": "10674",
+    "title": "Cubing Tibas 2026"
+  },
+  {
+    "id": "10782",
+    "title": "CubingUSA Great Lakes Championship 2026"
   },
   {
     "id": "10556",
@@ -764,12 +768,20 @@
     "title": "CubingUSA Southeast FMC Championship 2026"
   },
   {
-    "id": "10062",
-    "title": "Cucuta Library Open 2026"
+    "id": "10814",
+    "title": "Cubo Laberinto 2026"
   },
   {
-    "id": "9939",
-    "title": "Cuenca Open 2026"
+    "id": "10805",
+    "title": "CuboMatica Cuiaba 2026"
+  },
+  {
+    "id": "10729",
+    "title": "CuBonn Open 2026"
+  },
+  {
+    "id": "10062",
+    "title": "Cucuta Library Open 2026"
   },
   {
     "id": "10317",
@@ -804,36 +816,8 @@
     "title": "Davis Spring Sunset 2026"
   },
   {
-    "id": "9983",
-    "title": "Davis Winter Weeknight 2026"
-  },
-  {
     "id": "10608",
     "title": "Dawgs at Denny UW 2026"
-  },
-  {
-    "id": "10065",
-    "title": "DC Hyderabad Open March A 2026"
-  },
-  {
-    "id": "10066",
-    "title": "DC Hyderabad Open March B 2026"
-  },
-  {
-    "id": "10080",
-    "title": "DC Hyderabad Open March C 2026"
-  },
-  {
-    "id": "10081",
-    "title": "DC Hyderabad Open March D 2026"
-  },
-  {
-    "id": "9942",
-    "title": "Debica Cubing Winter 2026"
-  },
-  {
-    "id": "9989",
-    "title": "Delhi Cube Open 2026"
   },
   {
     "id": "10217",
@@ -848,6 +832,10 @@
     "title": "Desafio Aves Maria Sabaneta 2026"
   },
   {
+    "id": "10668",
+    "title": "Desafio Cubero Alta Gracia 2026"
+  },
+  {
     "id": "10203",
     "title": "DFW Cubing Spring 2026"
   },
@@ -856,20 +844,12 @@
     "title": "DFW Quiet Qualifier 2026"
   },
   {
-    "id": "9912",
-    "title": "DFW Weeknights 1 2026"
-  },
-  {
     "id": "10139",
     "title": "DFW Weeknights 2 2026"
   },
   {
     "id": "10628",
     "title": "DFW Weeknights 3 2026"
-  },
-  {
-    "id": "10070",
-    "title": "Dobeles Pavasaris 2026"
   },
   {
     "id": "9866",
@@ -884,10 +864,6 @@
     "title": "Dolne Oresany Open 2026"
   },
   {
-    "id": "9946",
-    "title": "Don't DNF Davis 2026"
-  },
-  {
     "id": "10357",
     "title": "Don't Go Slow in Wicklow 2026"
   },
@@ -896,16 +872,20 @@
     "title": "Dornogovi Toya Cup 2026"
   },
   {
+    "id": "10759",
+    "title": "Dosson al Cubo 2026"
+  },
+  {
     "id": "10375",
     "title": "Drammen Open 2026"
   },
   {
-    "id": "10064",
-    "title": "Dream in Chiang Mai 2026"
-  },
-  {
     "id": "10428",
     "title": "Duper Super Davis Spring 2026"
+  },
+  {
+    "id": "10775",
+    "title": "Eagle of the East Baku 2026"
   },
   {
     "id": "10189",
@@ -928,24 +908,24 @@
     "title": "Edgemont Cubing 2026"
   },
   {
-    "id": "9870",
-    "title": "El Solar Valentine's Day SC 2026"
+    "id": "10779",
+    "title": "Edinburgh Clock Day 2026"
   },
   {
-    "id": "9924",
-    "title": "Elmsford Evening I 2026"
-  },
-  {
-    "id": "10101",
-    "title": "Elmsford Evening II 2026"
+    "id": "10709",
+    "title": "Ekvator Rivne Open 2026"
   },
   {
     "id": "10462",
     "title": "Elmsford Evening III 2026"
   },
   {
-    "id": "10076",
-    "title": "Empire State ALL11-Stars 2026"
+    "id": "10822",
+    "title": "Elmsford Extravaganza I 2026"
+  },
+  {
+    "id": "10715",
+    "title": "Entre Rios Cubea 2026"
   },
   {
     "id": "10333",
@@ -956,8 +936,12 @@
     "title": "Eretum 2: Chocolate Edition 2026"
   },
   {
-    "id": "9792",
-    "title": "Erlangen Open III 2026"
+    "id": "10699",
+    "title": "Esplanade Cube Open 2026"
+  },
+  {
+    "id": "10733",
+    "title": "Esprit Cube Labenne 2026"
   },
   {
     "id": "10373",
@@ -968,12 +952,12 @@
     "title": "Evanston Qualifier 2026"
   },
   {
-    "id": "9914",
-    "title": "Falkirk Beginners 2026"
+    "id": "10720",
+    "title": "Eversdal Autumn Cape Town 2026"
   },
   {
-    "id": "9913",
-    "title": "Falkirk Open 2026"
+    "id": "10719",
+    "title": "FECAP 2026"
   },
   {
     "id": "10477",
@@ -1004,20 +988,12 @@
     "title": "FMC Central Asia 2026"
   },
   {
-    "id": "9876",
-    "title": "FMC Cheltenham Winter 2026"
-  },
-  {
-    "id": "9664",
-    "title": "FMC Colombia X 2026"
-  },
-  {
     "id": "10210",
     "title": "FMC Colombia XI 2026"
   },
   {
-    "id": "9900",
-    "title": "FMC Lovers Furth 2026"
+    "id": "10726",
+    "title": "FMC for Cancer Reigate 2026"
   },
   {
     "id": "10129",
@@ -1030,18 +1006,6 @@
   {
     "id": "10553",
     "title": "FME Campos Open 2026"
-  },
-  {
-    "id": "9869",
-    "title": "Folia ao Cubo Sides Manaus 2026"
-  },
-  {
-    "id": "9868",
-    "title": "Folia ao Cubo Speed Manaus 2026"
-  },
-  {
-    "id": "9902",
-    "title": "For the Love of FMC USA 2026"
   },
   {
     "id": "10254",
@@ -1060,10 +1024,6 @@
     "title": "Fruehligswurfela z'Rootchruuz 2026"
   },
   {
-    "id": "9987",
-    "title": "FSUbers 11.0 2026"
-  },
-  {
     "id": "10171",
     "title": "Fuentes de Andalucia Open 2026"
   },
@@ -1080,16 +1040,16 @@
     "title": "GA Cuber Jackets Spring 2026"
   },
   {
-    "id": "9982",
-    "title": "GA Cubers Banana Mystery 2026"
-  },
-  {
     "id": "10626",
     "title": "GA Cubers Big Blind Qualifier 2026"
   },
   {
     "id": "10246",
     "title": "GA Cubers Warm Up 2026"
+  },
+  {
+    "id": "10711",
+    "title": "GAN CubingVic 2026"
   },
   {
     "id": "10525",
@@ -1104,24 +1064,36 @@
     "title": "GAN Negros Speedcubing Open 2026"
   },
   {
+    "id": "10786",
+    "title": "GAN Southern Championship 2026"
+  },
+  {
+    "id": "10716",
+    "title": "GANCUBE Pasig Speedcubing Open 2026"
+  },
+  {
     "id": "10104",
     "title": "GANCUBE Puzzles in Pi Day Pampanga 2026"
+  },
+  {
+    "id": "10761",
+    "title": "Gares Open 2026"
   },
   {
     "id": "10371",
     "title": "Gasteiz Open 2026"
   },
   {
-    "id": "9980",
-    "title": "Gem State Sprint 2026"
-  },
-  {
-    "id": "9928",
-    "title": "Georgetown Side Event Day 2026"
+    "id": "10768",
+    "title": "Georgetown Favorite Event Day 2026"
   },
   {
     "id": "10397",
     "title": "Georgia April Open 2026"
+  },
+  {
+    "id": "10789",
+    "title": "Georgia June Open 2026"
   },
   {
     "id": "10183",
@@ -1148,24 +1120,16 @@
     "title": "Ghem Ammo Voia Da Cubaa 2026"
   },
   {
+    "id": "10745",
+    "title": "Gif-sur de PR 2026"
+  },
+  {
     "id": "10262",
     "title": "Glasgow Big and FMC Spring 2026"
   },
   {
-    "id": "10094",
-    "title": "Glasgow Blind Evening Spring 2026"
-  },
-  {
-    "id": "10033",
-    "title": "Glasgow Favourites Evening V 2026"
-  },
-  {
     "id": "10144",
     "title": "Glasgow Favourites Evening VI 2026"
-  },
-  {
-    "id": "9892",
-    "title": "Glasgow Side Events Winter 2026"
   },
   {
     "id": "10154",
@@ -1176,20 +1140,12 @@
     "title": "GLS Gdansk III 2026"
   },
   {
-    "id": "10048",
-    "title": "Głuszyca Open 2026"
+    "id": "10659",
+    "title": "GLS Gdansk IV 2026"
   },
   {
-    "id": "9931",
-    "title": "Gobbler Cube Day Winter at VT 2026"
-  },
-  {
-    "id": "9985",
-    "title": "Good Solves in Gibson Park 2026"
-  },
-  {
-    "id": "10037",
-    "title": "Gort-a Go Fast 2026"
+    "id": "10802",
+    "title": "GLS Side Challenge Gdansk 2026"
   },
   {
     "id": "10191",
@@ -1216,8 +1172,12 @@
     "title": "Granollers Open 2026"
   },
   {
-    "id": "9824",
-    "title": "Greenwoods Clock Clash 2026"
+    "id": "10670",
+    "title": "Great Peconic Bay 2026"
+  },
+  {
+    "id": "10811",
+    "title": "Greenwoods Big Blind & Beyond 2026"
   },
   {
     "id": "10409",
@@ -1228,16 +1188,16 @@
     "title": "Gros Jouets a Montreal 2026"
   },
   {
-    "id": "10039",
-    "title": "Grove City Weeknight Trios III 2026"
+    "id": "10660",
+    "title": "GSKR w Poznaniu 2026"
   },
   {
     "id": "10150",
     "title": "Guam Open 2026"
   },
   {
-    "id": "9910",
-    "title": "Guara Garage 2026"
+    "id": "10815",
+    "title": "Guelaguetza Oaxaca 2026"
   },
   {
     "id": "10395",
@@ -1248,16 +1208,8 @@
     "title": "Haileybury Astana Open 2026"
   },
   {
-    "id": "9888",
-    "title": "Hala February Kuwait 2026"
-  },
-  {
     "id": "10552",
     "title": "Halkida Spring Open 2026"
-  },
-  {
-    "id": "9996",
-    "title": "Hameenlinna 2026"
   },
   {
     "id": "10612",
@@ -1268,24 +1220,12 @@
     "title": "Hancock County Spring 2026"
   },
   {
-    "id": "9714",
-    "title": "Happy Cubing Honduras 2026"
-  },
-  {
     "id": "10158",
     "title": "Happy Navro'z in Tashkent 2026"
   },
   {
-    "id": "10047",
-    "title": "Happy Summer MDQ 2026"
-  },
-  {
     "id": "10411",
     "title": "Happy Valley Spring PA 2026"
-  },
-  {
-    "id": "9990",
-    "title": "Hawaiʻi Big Island Winter 2026"
   },
   {
     "id": "10156",
@@ -1308,48 +1248,56 @@
     "title": "Hessen Open 2026"
   },
   {
-    "id": "9963",
-    "title": "Hungarian All-Rounder 2 2026"
+    "id": "10734",
+    "title": "Hiroshima Spring 2026"
+  },
+  {
+    "id": "10721",
+    "title": "Hobart Autumn 2026"
   },
   {
     "id": "10414",
     "title": "Hungarian All-Rounder 3 2026"
   },
   {
-    "id": "9895",
-    "title": "Hungarian FMC Series 1 2026"
+    "id": "10756",
+    "title": "Hungarian All-Rounder 4 2026"
   },
   {
-    "id": "10006",
-    "title": "Hungarian FMC Series 2 2026"
+    "id": "10646",
+    "title": "Hungarian FMC Series 3 2026"
   },
   {
-    "id": "9909",
-    "title": "Hurlubik's Cube Mouscron 2026"
+    "id": "10735",
+    "title": "Hverdagscubing XXI - Friheden 2026"
   },
   {
     "id": "10474",
     "title": "Hvidovre April 2026"
   },
   {
+    "id": "10793",
+    "title": "Hvidovre Juni 2026"
+  },
+  {
     "id": "10230",
     "title": "ʻEwa Beach Liʻi Malaki 2026"
   },
   {
-    "id": "10051",
-    "title": "Iguanas Nuevo Vallarta 2026"
+    "id": "10746",
+    "title": "II IFMA ao Cubo 2026"
   },
   {
     "id": "10335",
     "title": "III Colatina Open 2026"
   },
   {
-    "id": "9944",
-    "title": "III Samuel Asafe Vila Velha 2026"
-  },
-  {
     "id": "10204",
     "title": "IISER Pune PARAM Open 2026"
+  },
+  {
+    "id": "10675",
+    "title": "Ileseum Cube Open 2026"
   },
   {
     "id": "10174",
@@ -1360,12 +1308,16 @@
     "title": "IMDRI Ibague 2026"
   },
   {
-    "id": "10488",
-    "title": "INUMP Sao Paulo 2026"
+    "id": "10680",
+    "title": "IndalOpen O'Clock 2026"
   },
   {
-    "id": "9988",
-    "title": "Iowa Winter Cooldown 2026"
+    "id": "10651",
+    "title": "Instituto Apontar Rio 2026"
+  },
+  {
+    "id": "10488",
+    "title": "INUMP Sao Paulo 2026"
   },
   {
     "id": "10085",
@@ -1384,16 +1336,16 @@
     "title": "Istanbul April 2026"
   },
   {
-    "id": "10082",
-    "title": "Itaipu Open 2026"
-  },
-  {
     "id": "10358",
     "title": "Itajai ao Cubo 2026"
   },
   {
     "id": "10318",
     "title": "Jakarta Mini K-ubing 2026"
+  },
+  {
+    "id": "10804",
+    "title": "Jelgavas Vasara 2026"
   },
   {
     "id": "10473",
@@ -1408,6 +1360,10 @@
     "title": "Johnshhhtown 2026"
   },
   {
+    "id": "10713",
+    "title": "Joinville Open by Mueller 2026"
+  },
+  {
     "id": "10334",
     "title": "Jonava Open 2026"
   },
@@ -1420,20 +1376,20 @@
     "title": "Juneau Cubing Spring 2026"
   },
   {
-    "id": "9739",
-    "title": "Kagaki School Open 2026"
+    "id": "10652",
+    "title": "Just Sides in Lyndhurst 2026"
   },
   {
     "id": "9994",
     "title": "Kalmar Cubing 2026"
   },
   {
-    "id": "10036",
-    "title": "Kalvskinnet Kubing 2026"
-  },
-  {
     "id": "10591",
     "title": "Kampin Kuutiopaivat 2026"
+  },
+  {
+    "id": "10790",
+    "title": "Kansai BLD Summer 2026"
   },
   {
     "id": "10161",
@@ -1444,10 +1400,6 @@
     "title": "Kanto Spring 2026"
   },
   {
-    "id": "9781",
-    "title": "Kanto Winter 2026"
-  },
-  {
     "id": "10298",
     "title": "Karnataka Cube Open April 2026"
   },
@@ -1456,8 +1408,12 @@
     "title": "Katano Spring 2026"
   },
   {
-    "id": "10025",
-    "title": "KCKC 9 Big and Awkward 2026"
+    "id": "10741",
+    "title": "Kaunas Odd or Even 2026"
+  },
+  {
+    "id": "10766",
+    "title": "Kent Spring 2026"
   },
   {
     "id": "9621",
@@ -1474,10 +1430,6 @@
   {
     "id": "10365",
     "title": "Kids Cubing IALA 2026"
-  },
-  {
-    "id": "9877",
-    "title": "Kielce Open 2026"
   },
   {
     "id": "10103",
@@ -1504,40 +1456,28 @@
     "title": "Kostelec NxN 2026"
   },
   {
-    "id": "9896",
-    "title": "Kublordag Jonkoping X - 2026"
-  },
-  {
     "id": "9995",
     "title": "Kublordag Jonkoping XI - 2026"
   },
   {
-    "id": "9943",
-    "title": "Kublordag Uppsala IV - 2026"
+    "id": "10760",
+    "title": "Kublordag Jonkoping XII - 2026"
   },
   {
     "id": "10354",
     "title": "Kublordag Uppsala V - 2026"
   },
   {
-    "id": "9935",
-    "title": "Kyiv Blind Side Winter 2026"
-  },
-  {
     "id": "10631",
     "title": "Kyiv NxN Spring 2026"
   },
   {
-    "id": "10078",
-    "title": "La Caceria GT 2026"
-  },
-  {
-    "id": "9937",
-    "title": "LA Low and Slow 2026"
-  },
-  {
     "id": "10268",
     "title": "LA PRE Cubing Pucallpa 2026"
+  },
+  {
+    "id": "10748",
+    "title": "La Rochele Open 2026"
   },
   {
     "id": "10418",
@@ -1548,8 +1488,20 @@
     "title": "Langenstein City Blind Open 2026"
   },
   {
-    "id": "9954",
-    "title": "Las Tablas Open 2026"
+    "id": "10667",
+    "title": "Las Palmas Ahome 2026"
+  },
+  {
+    "id": "10773",
+    "title": "Las Pinas Speedcubing Open IV 2026"
+  },
+  {
+    "id": "10784",
+    "title": "LCCC Cubing Summer 2026"
+  },
+  {
+    "id": "10705",
+    "title": "Le Cube Normand Open 2026"
   },
   {
     "id": "10393",
@@ -1560,16 +1512,12 @@
     "title": "Leeds Spring 2026"
   },
   {
-    "id": "9968",
-    "title": "Liberty Science Center Open A 2026"
+    "id": "10736",
+    "title": "Lets Go Back to Carlow 2026"
   },
   {
-    "id": "9969",
-    "title": "Liberty Science Center Open B 2026"
-  },
-  {
-    "id": "9934",
-    "title": "Lierskogen Vinterkubing 2026"
+    "id": "10684",
+    "title": "Lierganes Open 2026"
   },
   {
     "id": "10281",
@@ -1588,16 +1536,16 @@
     "title": "Loba April Ankara 2026"
   },
   {
-    "id": "10063",
-    "title": "Loba March Ankara 2026"
-  },
-  {
-    "id": "10073",
-    "title": "Lodi Solves Spring 2026"
+    "id": "10740",
+    "title": "Lofoten Open 2026"
   },
   {
     "id": "10518",
     "title": "Lonay Euro Qualifier 2026"
+  },
+  {
+    "id": "10669",
+    "title": "Long Island No Sound 2026"
   },
   {
     "id": "10589",
@@ -1610,14 +1558,6 @@
   {
     "id": "10380",
     "title": "Lotus's Pinklao Open 2026"
-  },
-  {
-    "id": "9644",
-    "title": "Love Is Blind Lima 2026"
-  },
-  {
-    "id": "9890",
-    "title": "Love is Blind UMBC 2026"
   },
   {
     "id": "10369",
@@ -1636,8 +1576,12 @@
     "title": "Macul Otono 2026"
   },
   {
-    "id": "10024",
-    "title": "Madison Manor PBQ 2026"
+    "id": "10757",
+    "title": "Mada King of Cube 2026"
+  },
+  {
+    "id": "10753",
+    "title": "Magnolia State Cubing 2026"
   },
   {
     "id": "10343",
@@ -1656,12 +1600,16 @@
     "title": "Malegno MegaOpen 2026"
   },
   {
-    "id": "9992",
-    "title": "Malmo Cubing Open 2026"
-  },
-  {
     "id": "10439",
     "title": "Manchester Cubing League - First 2026"
+  },
+  {
+    "id": "10678",
+    "title": "Manchester Cubing League - Second 2026"
+  },
+  {
+    "id": "10818",
+    "title": "Manchester Cubing League - Third 2026"
   },
   {
     "id": "10564",
@@ -1676,20 +1624,12 @@
     "title": "Marble City Cubing NY 2026"
   },
   {
-    "id": "10017",
-    "title": "Maribor Open 2026"
-  },
-  {
     "id": "9956",
     "title": "Marietta Monday Mini II 2026"
   },
   {
     "id": "10302",
     "title": "Marietta Monday Mini III 2026"
-  },
-  {
-    "id": "9955",
-    "title": "Marietta the Gathering 2026"
   },
   {
     "id": "10396",
@@ -1720,24 +1660,16 @@
     "title": "McBaja II 2026"
   },
   {
-    "id": "10052",
-    "title": "McMinnville Favorites 2026"
-  },
-  {
-    "id": "9976",
-    "title": "Medina Mayhem 2026"
+    "id": "10826",
+    "title": "MDQbea 2026"
   },
   {
     "id": "10182",
     "title": "Mega Geek Festival 2026"
   },
   {
-    "id": "10004",
-    "title": "Megaminx Madness AZ 2026"
-  },
-  {
-    "id": "9891",
-    "title": "Megaminx og Meget Mere Hvidovre 2026"
+    "id": "10767",
+    "title": "MegaGame Riga Open 2026"
   },
   {
     "id": "10096",
@@ -1780,6 +1712,10 @@
     "title": "Middle Georgia March Madness 2026"
   },
   {
+    "id": "10796",
+    "title": "Middletown Mixup 2026"
+  },
+  {
     "id": "10479",
     "title": "Midwest Cubing Classic 2026"
   },
@@ -1790,6 +1726,10 @@
   {
     "id": "10508",
     "title": "MilaNxNesas en La MataNxNza 2026"
+  },
+  {
+    "id": "10671",
+    "title": "Mina de Agua NxN 2026"
   },
   {
     "id": "10431",
@@ -1820,16 +1760,16 @@
     "title": "Mirasierra Open 2026"
   },
   {
-    "id": "9945",
-    "title": "Mohawk Valley Winter 2026"
+    "id": "10776",
+    "title": "Miri Seahorse STEM Cube Open 2026"
+  },
+  {
+    "id": "10692",
+    "title": "Mombasa Twist & Turn 2026"
   },
   {
     "id": "10270",
     "title": "Moncton 2026"
-  },
-  {
-    "id": "10013",
-    "title": "Monte Grande for Fun 2026"
   },
   {
     "id": "10041",
@@ -1848,16 +1788,16 @@
     "title": "MoT Cube Open 2026"
   },
   {
-    "id": "9981",
-    "title": "Moura Lacerda Open 2026"
-  },
-  {
     "id": "10344",
     "title": "Muggio Spring 2026"
   },
   {
     "id": "10472",
     "title": "Mumbai Cubing Sprint 2026"
+  },
+  {
+    "id": "10700",
+    "title": "Mumbai Monsoon Mayhem 2026"
   },
   {
     "id": "10299",
@@ -1896,12 +1836,16 @@
     "title": "Nairobi Big and OH 2026"
   },
   {
-    "id": "9619",
-    "title": "Nairobi Cubes 2026"
+    "id": "10691",
+    "title": "Nakuru Twist and Turn 2026"
   },
   {
     "id": "10122",
     "title": "Nanterre 2 Folie 2026"
+  },
+  {
+    "id": "10787",
+    "title": "Napule E Mille Culure 2026"
   },
   {
     "id": "10325",
@@ -1916,16 +1860,12 @@
     "title": "Nawi Tlaxcala 2026"
   },
   {
-    "id": "10083",
-    "title": "NCSU Wolfpack Spring 2026"
+    "id": "10823",
+    "title": "NC ao Cubo 2026"
   },
   {
     "id": "10310",
     "title": "Nebraska Championship 2026"
-  },
-  {
-    "id": "9964",
-    "title": "New Martinsville Newcomers 2026"
   },
   {
     "id": "10389",
@@ -1940,8 +1880,8 @@
     "title": "New York Multimate PBQ IV 2026"
   },
   {
-    "id": "9884",
-    "title": "NGT Mosquera 2026"
+    "id": "10749",
+    "title": "New York Multimate PBQ V 2026"
   },
   {
     "id": "10600",
@@ -1972,6 +1912,10 @@
     "title": "Nordic & Swedish Championship 2026"
   },
   {
+    "id": "10751",
+    "title": "North Battleford Cube Day 2026"
+  },
+  {
     "id": "10263",
     "title": "North Carolina Mini Qualifier 2026"
   },
@@ -1996,14 +1940,6 @@
     "title": "North Sydney No Seeing 2026"
   },
   {
-    "id": "10061",
-    "title": "North-East Melbourne March Saturday 2026"
-  },
-  {
-    "id": "10079",
-    "title": "North-East Melbourne March Sunday 2026"
-  },
-  {
     "id": "10478",
     "title": "Northern Tier Twist 2026"
   },
@@ -2020,6 +1956,14 @@
     "title": "Novo mesto Open 2026"
   },
   {
+    "id": "10718",
+    "title": "Nuevo Chimbote Speedcube Fest 2026"
+  },
+  {
+    "id": "10788",
+    "title": "NUS Clock Clash 2026"
+  },
+  {
     "id": "10257",
     "title": "NUS Masters 2026"
   },
@@ -2028,8 +1972,8 @@
     "title": "Nuti Cube Day 2026"
   },
   {
-    "id": "9920",
-    "title": "NxN Nonsense NC 2026"
+    "id": "10676",
+    "title": "Nuti Tallinn Open 2026"
   },
   {
     "id": "10239",
@@ -2040,6 +1984,10 @@
     "title": "NxNxN in Astana 2026"
   },
   {
+    "id": "10770",
+    "title": "NxNxN Riga 2026"
+  },
+  {
     "id": "10305",
     "title": "NYU Spring 2026"
   },
@@ -2048,16 +1996,8 @@
     "title": "NZ Cubing Heptathlon 2026"
   },
   {
-    "id": "9984",
-    "title": "NZ North Island Championship 2026"
-  },
-  {
     "id": "10332",
     "title": "NZ South Island Championship 2026"
-  },
-  {
-    "id": "9880",
-    "title": "Oberlin Challenge I 2026"
   },
   {
     "id": "10160",
@@ -2080,12 +2020,12 @@
     "title": "Ohio State Weekend of Madness 2026"
   },
   {
-    "id": "9587",
-    "title": "Ohio University 2026"
-  },
-  {
     "id": "10630",
     "title": "Oklahoma Championship 2026"
+  },
+  {
+    "id": "10797",
+    "title": "Olimpiadas de la Mente Stgo 2026"
   },
   {
     "id": "10315",
@@ -2096,12 +2036,12 @@
     "title": "Only 3x3s in Hyderabad May 2026"
   },
   {
-    "id": "10201",
-    "title": "Only Cubes in Scarborough 2026"
+    "id": "10777",
+    "title": "Only Cubes in ABQ 2026"
   },
   {
-    "id": "9975",
-    "title": "Open de Gatineau 2026"
+    "id": "10201",
+    "title": "Only Cubes in Scarborough 2026"
   },
   {
     "id": "10127",
@@ -2116,8 +2056,8 @@
     "title": "Orange City Twist and Triumph Nagpur 2026"
   },
   {
-    "id": "9940",
-    "title": "Oregon State PBQ 2026"
+    "id": "10661",
+    "title": "Orebro Side Events 2026"
   },
   {
     "id": "10264",
@@ -2126,10 +2066,6 @@
   {
     "id": "10623",
     "title": "Oruro Open 10th Anniversary 2026"
-  },
-  {
-    "id": "9999",
-    "title": "Osijek Open 2026"
   },
   {
     "id": "10504",
@@ -2144,12 +2080,16 @@
     "title": "Ottawa Spring 2026"
   },
   {
-    "id": "9830",
-    "title": "Palencia con P de Pyraminx 2026"
+    "id": "10772",
+    "title": "Palmyra Spring 2026"
   },
   {
     "id": "10180",
     "title": "Pampulha Open 2026"
+  },
+  {
+    "id": "10754",
+    "title": "Panhandling for Cubes Oklahoma 2026"
   },
   {
     "id": "10095",
@@ -2184,16 +2124,16 @@
     "title": "PBQ NCSU 2026"
   },
   {
+    "id": "10708",
+    "title": "PBQ Santa Cruz 92.2 FM 2026"
+  },
+  {
     "id": "10194",
     "title": "PBQniversity of Alabama 2026"
   },
   {
     "id": "9477",
     "title": "PBQtah 9 2026"
-  },
-  {
-    "id": "9932",
-    "title": "PBs in Palisades Open 2026"
   },
   {
     "id": "10295",
@@ -2212,6 +2152,14 @@
     "title": "Perth Favourites Evening 2026"
   },
   {
+    "id": "10653",
+    "title": "Perth Puzzle Party 2026"
+  },
+  {
+    "id": "10769",
+    "title": "Perth Time Trial 2026"
+  },
+  {
     "id": "10098",
     "title": "Pi Cubing Hvidovre 2026"
   },
@@ -2224,6 +2172,14 @@
     "title": "Pi Day Cubing CO 2026"
   },
   {
+    "id": "10785",
+    "title": "Pickering Blindfolded 2026"
+  },
+  {
+    "id": "10765",
+    "title": "Pickering Favourites Summer 2026"
+  },
+  {
     "id": "10088",
     "title": "Pickering Mini Afternoon 2026"
   },
@@ -2232,24 +2188,12 @@
     "title": "Pickering Mini Morning 2026"
   },
   {
-    "id": "10075",
-    "title": "Pico al Cubo 2026"
-  },
-  {
     "id": "10218",
     "title": "Pinoy Big Cubes Open 2026"
   },
   {
-    "id": "9998",
-    "title": "Pinoy Side Events Open 2026"
-  },
-  {
     "id": "10092",
     "title": "Please Be Finished Brisbane 2026"
-  },
-  {
-    "id": "10038",
-    "title": "Please Be Quiet Odivelas 2026"
   },
   {
     "id": "10568",
@@ -2260,24 +2204,12 @@
     "title": "Please Be Quiet Singapore April 2026"
   },
   {
-    "id": "9878",
-    "title": "Please Be Quiet Thailand 2026"
-  },
-  {
     "id": "10284",
     "title": "Please Don't DNF Kaohsiung 2026"
   },
   {
     "id": "10234",
     "title": "Pocatello Potato Palooza 2026"
-  },
-  {
-    "id": "9731",
-    "title": "Pocos Cupos Bogota XXII 2026"
-  },
-  {
-    "id": "10049",
-    "title": "Pocos Cupos Bogota XXIII 2026"
   },
   {
     "id": "10027",
@@ -2316,16 +2248,16 @@
     "title": "Prescott Spring 2026"
   },
   {
+    "id": "10663",
+    "title": "Presidential Puzzles in PA 2026"
+  },
+  {
     "id": "10526",
     "title": "Proyeccion Social III - Big Cubes Bogota 2026"
   },
   {
     "id": "10604",
     "title": "PSS Side Day Gdansk 2026"
-  },
-  {
-    "id": "10034",
-    "title": "PUCP Cubing Festival IX 2026"
   },
   {
     "id": "10035",
@@ -2344,10 +2276,6 @@
     "title": "Pulmapelipaivat 2026"
   },
   {
-    "id": "9917",
-    "title": "Pune Spring Open 2026"
-  },
-  {
     "id": "10208",
     "title": "Puro 3x3 Bulevar Niza Bogota 2026"
   },
@@ -2356,28 +2284,32 @@
     "title": "Puzzles in Pittsford 2026"
   },
   {
-    "id": "10588",
-    "title": "Pyraminx in Phitsanulok 2026"
+    "id": "10704",
+    "title": "Puzzling Parramatta 2026"
   },
   {
-    "id": "9911",
-    "title": "Pyraminx with Madison Ideas 2026"
+    "id": "10588",
+    "title": "Pyraminx in Phitsanulok 2026"
   },
   {
     "id": "10498",
     "title": "Q'umarkaj 2026"
   },
   {
+    "id": "10707",
+    "title": "Quabbin Spring 2026"
+  },
+  {
     "id": "10635",
     "title": "Qualifying Cougars WV 2026"
   },
   {
-    "id": "9916",
-    "title": "Quanzhou Big Cubes 2026"
-  },
-  {
     "id": "10106",
     "title": "Quick Q.bing Q.lisse 2026"
+  },
+  {
+    "id": "10806",
+    "title": "Quiet Afternoon Saskatoon 2026"
   },
   {
     "id": "10280",
@@ -2400,12 +2332,12 @@
     "title": "Rahn Education Open 2026"
   },
   {
-    "id": "10308",
-    "title": "Recreo Kids SCZ 2026"
+    "id": "10665",
+    "title": "RCBC Cube Day NJ 2026"
   },
   {
-    "id": "9593",
-    "title": "Red Deer Favourites 2026"
+    "id": "10308",
+    "title": "Recreo Kids SCZ 2026"
   },
   {
     "id": "10505",
@@ -2436,16 +2368,8 @@
     "title": "Riccarton Newcomer Rumble 2026"
   },
   {
-    "id": "10016",
-    "title": "Richardshhhon 2026"
-  },
-  {
     "id": "10278",
     "title": "Richmond Spring 2026"
-  },
-  {
-    "id": "9904",
-    "title": "Riga Open 2026"
   },
   {
     "id": "10113",
@@ -2460,20 +2384,28 @@
     "title": "River Mall Kyiv 2026"
   },
   {
-    "id": "9856",
-    "title": "Riverlake 2026"
-  },
-  {
     "id": "10565",
     "title": "Road To SAC Santander 2026"
+  },
+  {
+    "id": "10764",
+    "title": "ROC the Cube NY 2026"
   },
   {
     "id": "10277",
     "title": "Rocky Mountain Championship 2026"
   },
   {
+    "id": "10655",
+    "title": "Roscommon Cubing 2026"
+  },
+  {
     "id": "10219",
     "title": "Roskilde by Night 2026"
+  },
+  {
+    "id": "10821",
+    "title": "Rotterdam Big 'n Brain 2026"
   },
   {
     "id": "10275",
@@ -2484,28 +2416,40 @@
     "title": "Rubik's WCA European Championship 2026"
   },
   {
+    "id": "10763",
+    "title": "Rubik's WCA North American Championship 2026"
+  },
+  {
     "id": "10535",
     "title": "Rubisian Spring Cubing Iasi 2026"
   },
   {
-    "id": "9883",
-    "title": "Rubisian Winter Cubing Iasi 2026"
-  },
-  {
-    "id": "9793",
-    "title": "Ruta Cubera: Lalin Open 2026"
+    "id": "10683",
+    "title": "Rueil Open 2026"
   },
   {
     "id": "9865",
     "title": "Ruzomberok Open 2026"
   },
   {
-    "id": "10077",
-    "title": "Saint Mikes Winter VT 2026"
+    "id": "10731",
+    "title": "RVA Spring 2026"
+  },
+  {
+    "id": "10648",
+    "title": "SacCubing XXIII 2026"
+  },
+  {
+    "id": "10647",
+    "title": "SacQuiet Spring 2026"
   },
   {
     "id": "10151",
     "title": "Saipan Open 2026"
+  },
+  {
+    "id": "10794",
+    "title": "SAJ Aguas da Prata 2026"
   },
   {
     "id": "10545",
@@ -2516,24 +2460,12 @@
     "title": "San Gil Cubing 2026"
   },
   {
-    "id": "9678",
-    "title": "San Gil Plaza Niveles 2026"
-  },
-  {
-    "id": "10057",
-    "title": "Saraswati College Open 2026"
-  },
-  {
     "id": "10114",
     "title": "Sausalito NxN Open 2026"
   },
   {
     "id": "10509",
     "title": "Scenic City Spring TN 2026"
-  },
-  {
-    "id": "9273",
-    "title": "Schwerin Open 2026"
   },
   {
     "id": "10131",
@@ -2556,6 +2488,14 @@
     "title": "Seoul Spring 2026"
   },
   {
+    "id": "10679",
+    "title": "Sheffield Spring 2026"
+  },
+  {
+    "id": "10738",
+    "title": "Shhicago V 2026"
+  },
+  {
     "id": "10348",
     "title": "Shopping Parque da Cidade 2026"
   },
@@ -2572,8 +2512,8 @@
     "title": "Side Events in Palisades 2026"
   },
   {
-    "id": "9574",
-    "title": "Singapore Championship 2026"
+    "id": "10722",
+    "title": "Singapore Double or Nothing Parity Mayhem 2026"
   },
   {
     "id": "10543",
@@ -2596,8 +2536,16 @@
     "title": "Slovak Championship 2026"
   },
   {
-    "id": "10060",
-    "title": "Sogndal Spring 2026"
+    "id": "10799",
+    "title": "Sofia Summer 2026"
+  },
+  {
+    "id": "10755",
+    "title": "Solo Lur 2026"
+  },
+  {
+    "id": "10798",
+    "title": "Solve N Cruise at Serene Alleppey 2026"
   },
   {
     "id": "10123",
@@ -2632,6 +2580,14 @@
     "title": "Spanish Championship 2026"
   },
   {
+    "id": "10706",
+    "title": "Spark Melbourne Autumn Saturday 2026"
+  },
+  {
+    "id": "10723",
+    "title": "Spark Melbourne Autumn Sunday 2026"
+  },
+  {
     "id": "10366",
     "title": "Speedcubing Aarhus Generalforsamling 2026"
   },
@@ -2650,10 +2606,6 @@
   {
     "id": "9828",
     "title": "Spring Breeze in Burnaby 2026"
-  },
-  {
-    "id": "9970",
-    "title": "SRMAP Cube Clash Feb 2026"
   },
   {
     "id": "10199",
@@ -2676,10 +2628,6 @@
     "title": "Stevenage May 2026"
   },
   {
-    "id": "9918",
-    "title": "Stockholmsligan 3: Surskallar - 2026"
-  },
-  {
     "id": "10159",
     "title": "Stockholmsligan 4: Bilar - 2026"
   },
@@ -2696,8 +2644,8 @@
     "title": "Sumgait Spring Open 2026"
   },
   {
-    "id": "9823",
-    "title": "Summer of the Cube Huancayo 2026"
+    "id": "10744",
+    "title": "Sumgait Summer Open 2026"
   },
   {
     "id": "10574",
@@ -2720,12 +2668,16 @@
     "title": "Swisscubing Cup II 2026"
   },
   {
-    "id": "9979",
-    "title": "Synocubix Gandhinagar 2026"
+    "id": "10696",
+    "title": "Swisscubing Cup III 2026"
   },
   {
-    "id": "10008",
-    "title": "SzczeciNxN 2026"
+    "id": "10743",
+    "title": "Swisscubing Cup Mental Breakdown I 2026"
+  },
+  {
+    "id": "10750",
+    "title": "Sydals Open 2026"
   },
   {
     "id": "10148",
@@ -2740,14 +2692,6 @@
     "title": "Teknostallen 2026"
   },
   {
-    "id": "10029",
-    "title": "Temecula Valley Spring 2026"
-  },
-  {
-    "id": "9927",
-    "title": "Temple Cubing Winter 2026"
-  },
-  {
     "id": "10593",
     "title": "Temple Qualifier 2026"
   },
@@ -2756,8 +2700,20 @@
     "title": "Tennessee Mini Qualifier 2026"
   },
   {
+    "id": "10682",
+    "title": "Texoma Twist-Off Tuesday 2026"
+  },
+  {
     "id": "10102",
     "title": "The Heart of Texas Spring 2026"
+  },
+  {
+    "id": "10730",
+    "title": "The Last Frontier Spring 2026"
+  },
+  {
+    "id": "10685",
+    "title": "The Loveliest Solves on the Plains Auburn 2026"
   },
   {
     "id": "10461",
@@ -2772,12 +2728,16 @@
     "title": "TJHSST Winter 2026"
   },
   {
-    "id": "10136",
-    "title": "Tokyo BLD Spring 2026"
+    "id": "10812",
+    "title": "Tlajopen 2026"
   },
   {
-    "id": "9780",
-    "title": "Tokyo BLD Winter 2026"
+    "id": "10816",
+    "title": "Tlaxcala Open 10 Aniversario 2026"
+  },
+  {
+    "id": "10136",
+    "title": "Tokyo BLD Spring 2026"
   },
   {
     "id": "10368",
@@ -2788,12 +2748,24 @@
     "title": "Tokyo Spring 2026"
   },
   {
+    "id": "10791",
+    "title": "Tokyo Summer 2026"
+  },
+  {
+    "id": "10666",
+    "title": "Toledo Big & Blind 2026"
+  },
+  {
     "id": "10616",
     "title": "Tomelloso Open 2026"
   },
   {
-    "id": "9919",
-    "title": "Torrelodones Open 2026"
+    "id": "10795",
+    "title": "Tramsheds IX: June Saturday 2026"
+  },
+  {
+    "id": "10807",
+    "title": "Tramsheds IX: June Sunday 2026"
   },
   {
     "id": "10212",
@@ -2802,10 +2774,6 @@
   {
     "id": "9959",
     "title": "Tri Cities Spring 2026"
-  },
-  {
-    "id": "9906",
-    "title": "Trinec Open 2026"
   },
   {
     "id": "10168",
@@ -2820,6 +2788,10 @@
     "title": "TUD Unscramble Day 2026"
   },
   {
+    "id": "10697",
+    "title": "Turn It Caracas 2026"
+  },
+  {
     "id": "10378",
     "title": "Twist and Turn Ghent 2026"
   },
@@ -2828,28 +2800,16 @@
     "title": "Twists & Turns SFRAA 2026"
   },
   {
-    "id": "10028",
-    "title": "Tyler Twists & Turns 2026"
+    "id": "10783",
+    "title": "UC3M Leganes Open 2026"
   },
   {
     "id": "10446",
     "title": "UCD Cube Days 2026"
   },
   {
-    "id": "9871",
-    "title": "UCLA Spring 2026"
-  },
-  {
     "id": "10489",
     "title": "UCOM Paraguay 2026"
-  },
-  {
-    "id": "9960",
-    "title": "UCSD March A 2026"
-  },
-  {
-    "id": "9961",
-    "title": "UCSD March B 2026"
   },
   {
     "id": "10266",
@@ -2860,10 +2820,6 @@
     "title": "UCSD Weeknights IX 2026"
   },
   {
-    "id": "10014",
-    "title": "UFBA IX 2026"
-  },
-  {
     "id": "10130",
     "title": "UFMS Space Rubik 2026"
   },
@@ -2872,36 +2828,24 @@
     "title": "Ugnsbakad Falukorv Open 2026"
   },
   {
-    "id": "10261",
-    "title": "UIUC Spring 2026"
+    "id": "10732",
+    "title": "Uhseo Osong 2026"
   },
   {
-    "id": "9741",
-    "title": "UJCV Cubing Honduras 2026"
+    "id": "10261",
+    "title": "UIUC Spring 2026"
   },
   {
     "id": "10149",
     "title": "Ulaanbaatar Spring 2026"
   },
   {
-    "id": "9933",
-    "title": "Ulmgedreht 2026"
-  },
-  {
-    "id": "10015",
-    "title": "UMass Spring 2026"
-  },
-  {
-    "id": "9889",
-    "title": "UMBC Winter 2026"
+    "id": "10825",
+    "title": "Ulaanbaatar Summer 2026"
   },
   {
     "id": "10232",
     "title": "Unicen Open SCZ 2026"
-  },
-  {
-    "id": "9730",
-    "title": "Unicentro Tunja lV 2026"
   },
   {
     "id": "10206",
@@ -2916,24 +2860,24 @@
     "title": "UnOrono-thodox Blocks 2026"
   },
   {
-    "id": "9930",
-    "title": "Unorthodox Blocks 5 CO 2026"
-  },
-  {
     "id": "10222",
     "title": "UNSA Speedcubing Summer 2026"
   },
   {
-    "id": "9867",
-    "title": "UO Valentine's Day 2026"
-  },
-  {
-    "id": "10110",
-    "title": "Uppsalaligan 3: Gear - 2026"
+    "id": "10644",
+    "title": "UPEN Open 2026"
   },
   {
     "id": "10279",
     "title": "Uppsalaligan 4: Galaxy - 2026"
+  },
+  {
+    "id": "10725",
+    "title": "Uppsalaligan 5: Pouch - 2026"
+  },
+  {
+    "id": "10690",
+    "title": "UPV Open 2026"
   },
   {
     "id": "10173",
@@ -2972,8 +2916,8 @@
     "title": "UTP Speedcubing Open 2026"
   },
   {
-    "id": "9882",
-    "title": "Valinor Skewbing Cartago 2026"
+    "id": "10820",
+    "title": "Valdepenas Open 2026"
   },
   {
     "id": "10054",
@@ -2984,28 +2928,16 @@
     "title": "Vancouver Mini Morning 2026"
   },
   {
-    "id": "9571",
-    "title": "Vanderbilt Winter 2026"
-  },
-  {
     "id": "10289",
     "title": "Vaquita Morelia 2026"
   },
   {
+    "id": "10701",
+    "title": "Varberg Open 2026"
+  },
+  {
     "id": "10531",
     "title": "Vaudesincourt Open 2026"
-  },
-  {
-    "id": "9962",
-    "title": "Vegas Cubing Winter 2026"
-  },
-  {
-    "id": "9899",
-    "title": "Velilla Open 2026"
-  },
-  {
-    "id": "9997",
-    "title": "VERK XIII 2026"
   },
   {
     "id": "10163",
@@ -3016,16 +2948,20 @@
     "title": "VERK XV 2026"
   },
   {
-    "id": "9967",
-    "title": "Very Awesome Mini-sota 2026"
+    "id": "10681",
+    "title": "Victoria Dockyard Sprint 2026"
   },
   {
     "id": "10443",
     "title": "Vieni a Cubare in Puglia 2026"
   },
   {
-    "id": "10012",
-    "title": "Vilafranca Open 2026"
+    "id": "10658",
+    "title": "Vienna Fruhling 2026"
+  },
+  {
+    "id": "10649",
+    "title": "Vigo Open 2026"
   },
   {
     "id": "10512",
@@ -3036,8 +2972,16 @@
     "title": "Vltava Cube: April 2026"
   },
   {
+    "id": "10801",
+    "title": "Vltava Cube: June 2026"
+  },
+  {
     "id": "10248",
     "title": "Vltava Cube: March 2026"
+  },
+  {
+    "id": "10710",
+    "title": "Vltava Cube: May 2026"
   },
   {
     "id": "10596",
@@ -3048,8 +2992,20 @@
     "title": "Wakefield MA Spring 2026"
   },
   {
+    "id": "10758",
+    "title": "Warm Up Iloilo 2026"
+  },
+  {
+    "id": "10717",
+    "title": "Warm up Las Condes 2026"
+  },
+  {
     "id": "10353",
     "title": "Wasaga Beach Spring 2026"
+  },
+  {
+    "id": "10673",
+    "title": "Waterloo Mini Blindfolded 2026"
   },
   {
     "id": "10441",
@@ -3062,6 +3018,10 @@
   {
     "id": "9720",
     "title": "WCA South American Championship 2026"
+  },
+  {
+    "id": "10702",
+    "title": "WCA South American Championship FMC 2026"
   },
   {
     "id": "10495",
@@ -3080,16 +3040,12 @@
     "title": "WCC Western PBQ Championship - Santa Clara 2026"
   },
   {
-    "id": "9898",
-    "title": "We Love Cubing Athens A 2026"
-  },
-  {
-    "id": "9905",
-    "title": "We Love Cubing Athens B 2026"
-  },
-  {
     "id": "10595",
     "title": "Welcome Back Hamilton 2026"
+  },
+  {
+    "id": "10712",
+    "title": "Welcome Back UPDS 2026"
   },
   {
     "id": "10467",
@@ -3098,6 +3054,10 @@
   {
     "id": "10447",
     "title": "Welcome to Washington D.C. 2026"
+  },
+  {
+    "id": "10687",
+    "title": "Wellington Autumn 2026"
   },
   {
     "id": "10634",
@@ -3152,8 +3112,8 @@
     "title": "Wezemaal Open 2026"
   },
   {
-    "id": "9977",
-    "title": "Wichita Art Museum 2026"
+    "id": "10819",
+    "title": "Wichita Air Capital Cubing 2026"
   },
   {
     "id": "10417",
@@ -3172,16 +3132,8 @@
     "title": "Williamsburg Open Spring 2026"
   },
   {
-    "id": "10026",
-    "title": "Wiltshire Spring 2026"
-  },
-  {
     "id": "10338",
     "title": "Winnipeg Spring 2026"
-  },
-  {
-    "id": "10011",
-    "title": "WIW at Opole 2026"
   },
   {
     "id": "10384",
@@ -3190,10 +3142,6 @@
   {
     "id": "10621",
     "title": "WLS Maj 2026"
-  },
-  {
-    "id": "10097",
-    "title": "WLS Marzec 2026"
   },
   {
     "id": "10522",
@@ -3208,16 +3156,12 @@
     "title": "Wyominx 2026"
   },
   {
+    "id": "10686",
+    "title": "X-Madrid Open 2026"
+  },
+  {
     "id": "10301",
     "title": "Xi'an Cherry Blossom 2026"
-  },
-  {
-    "id": "9879",
-    "title": "XMUM Cube Open 2026"
-  },
-  {
-    "id": "10056",
-    "title": "Yuba City Spring 2026"
   },
   {
     "id": "9974",
@@ -3228,12 +3172,16 @@
     "title": "Zagreb Cubing Series I. 2026"
   },
   {
-    "id": "10459",
-    "title": "Zamiin-Uud Cup 2026"
+    "id": "10803",
+    "title": "Zagreb Cubing Series II. 2026"
   },
   {
-    "id": "9908",
-    "title": "Zeer Rangsit Cubing 2026"
+    "id": "10703",
+    "title": "Zagreb Open 2026"
+  },
+  {
+    "id": "10459",
+    "title": "Zamiin-Uud Cup 2026"
   },
   {
     "id": "10547",
@@ -3242,9 +3190,5 @@
   {
     "id": "10207",
     "title": "Zipaquira Cundinamarca III 2026"
-  },
-  {
-    "id": "10074",
-    "title": "Zoioff Campinas 2026"
   }
 ]

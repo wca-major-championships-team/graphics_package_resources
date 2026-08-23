@@ -132,10 +132,6 @@
     "title": "Batumi July Open 2026"
   },
   {
-    "id": "10724",
-    "title": "Batumi May Open 2026"
-  },
-  {
     "id": "10952",
     "title": "BBQ Ropazi 2026"
   },
@@ -368,10 +364,6 @@
     "title": "Chill Cubing in Chilliwack 2026"
   },
   {
-    "id": "10698",
-    "title": "Christchurch Autumn 2026"
-  },
-  {
     "id": "11137",
     "title": "Christchurch Winter 2026"
   },
@@ -382,10 +374,6 @@
   {
     "id": "10695",
     "title": "Circuito dos Shoppings - Etapa Ponta Negra 2026"
-  },
-  {
-    "id": "10694",
-    "title": "Circuito dos Shoppings - Etapa Sumauma 2026"
   },
   {
     "id": "11201",
@@ -402,10 +390,6 @@
   {
     "id": "10810",
     "title": "Colonial Cube Clash VA 2026"
-  },
-  {
-    "id": "10693",
-    "title": "Comodoro Cubea V3 2026"
   },
   {
     "id": "10808",
@@ -532,10 +516,6 @@
     "title": "CubingUSA Great Lakes Championship 2026"
   },
   {
-    "id": "10556",
-    "title": "CubingUSA Heartland Championship 2026"
-  },
-  {
     "id": "11027",
     "title": "CubingUSA New England Quiet Championship 2026"
   },
@@ -636,10 +616,6 @@
     "title": "Eire 100 2026"
   },
   {
-    "id": "10709",
-    "title": "Ekvator Rivne Open 2026"
-  },
-  {
     "id": "10995",
     "title": "El Jadida Open 2026"
   },
@@ -656,20 +632,8 @@
     "title": "Elyu Cube Clash III 2026"
   },
   {
-    "id": "10715",
-    "title": "Entre Rios Cubea 2026"
-  },
-  {
-    "id": "10699",
-    "title": "Esplanade Cube Open 2026"
-  },
-  {
     "id": "10733",
     "title": "Esprit Cube Labenne 2026"
-  },
-  {
-    "id": "10720",
-    "title": "Eversdal Autumn Cape Town 2026"
   },
   {
     "id": "10959",
@@ -752,16 +716,8 @@
     "title": "Fun with Fewest Moves in Warsaw II 2026"
   },
   {
-    "id": "10637",
-    "title": "Future Park Thailand Cube Battle 2026"
-  },
-  {
     "id": "10860",
     "title": "GA Cubers Pride 2026"
-  },
-  {
-    "id": "10711",
-    "title": "GAN CubingVic 2026"
   },
   {
     "id": "10328",
@@ -788,10 +744,6 @@
     "title": "GAN WCA African Championship 2026"
   },
   {
-    "id": "10716",
-    "title": "GANCUBE Pasig Speedcubing Open 2026"
-  },
-  {
     "id": "10761",
     "title": "Gares Open 2026"
   },
@@ -802,6 +754,10 @@
   {
     "id": "10928",
     "title": "Gdansk Cubing Day 2026"
+  },
+  {
+    "id": "11232",
+    "title": "Geelong Winter 2026"
   },
   {
     "id": "11073",
@@ -880,10 +836,6 @@
     "title": "Hiroshima Spring 2026"
   },
   {
-    "id": "10721",
-    "title": "Hobart Autumn 2026"
-  },
-  {
     "id": "11156",
     "title": "Hong Kong Cube Day 2026"
   },
@@ -940,16 +892,8 @@
     "title": "III Capixaba Challenge 2026"
   },
   {
-    "id": "10675",
-    "title": "Ileseum Cube Open 2026"
-  },
-  {
     "id": "10907",
     "title": "IMETRO Open 2026"
-  },
-  {
-    "id": "10680",
-    "title": "IndalOpen O'Clock 2026"
   },
   {
     "id": "10901",
@@ -1006,10 +950,6 @@
   {
     "id": "10836",
     "title": "Jog Your Memory Joondalup 2026"
-  },
-  {
-    "id": "10713",
-    "title": "Joinville Open by Mueller 2026"
   },
   {
     "id": "11179",
@@ -1154,10 +1094,6 @@
   {
     "id": "10736",
     "title": "Lets Go Back to Carlow 2026"
-  },
-  {
-    "id": "10684",
-    "title": "Lierganes Open 2026"
   },
   {
     "id": "10976",
@@ -1440,10 +1376,6 @@
     "title": "Norwegian Championship 2026"
   },
   {
-    "id": "10718",
-    "title": "Nuevo Chimbote Speedcube Fest 2026"
-  },
-  {
     "id": "10788",
     "title": "NUS Clock Clash 2026"
   },
@@ -1454,10 +1386,6 @@
   {
     "id": "10887",
     "title": "NUS Mini 2026"
-  },
-  {
-    "id": "10676",
-    "title": "Nuti Tallinn Open 2026"
   },
   {
     "id": "10936",
@@ -1610,10 +1538,6 @@
   {
     "id": "10641",
     "title": "Pulmapelipaivat 2026"
-  },
-  {
-    "id": "10704",
-    "title": "Puzzling Parramatta 2026"
   },
   {
     "id": "10588",
@@ -1804,10 +1728,6 @@
     "title": "SESI Cubatao 2026"
   },
   {
-    "id": "10679",
-    "title": "Sheffield Spring 2026"
-  },
-  {
     "id": "10738",
     "title": "Shhicago V 2026"
   },
@@ -1834,10 +1754,6 @@
   {
     "id": "11199",
     "title": "Singapore Augu-Skewb Day 2026"
-  },
-  {
-    "id": "10722",
-    "title": "Singapore Double or Nothing Parity Mayhem 2026"
   },
   {
     "id": "10960",
@@ -1900,10 +1816,6 @@
     "title": "Spanish Championship 2026"
   },
   {
-    "id": "10723",
-    "title": "Spark Melbourne Autumn Sunday 2026"
-  },
-  {
     "id": "11021",
     "title": "Spokane Summer 2026"
   },
@@ -1944,10 +1856,6 @@
     "title": "Svealandsmasterskapet 2026"
   },
   {
-    "id": "10696",
-    "title": "Swisscubing Cup III 2026"
-  },
-  {
     "id": "10743",
     "title": "Swisscubing Cup Mental Breakdown I 2026"
   },
@@ -1986,10 +1894,6 @@
   {
     "id": "10730",
     "title": "The Last Frontier Spring 2026"
-  },
-  {
-    "id": "10685",
-    "title": "The Loveliest Solves on the Plains Auburn 2026"
   },
   {
     "id": "10902",
@@ -2048,10 +1952,6 @@
     "title": "Trujillo Open 2026"
   },
   {
-    "id": "10697",
-    "title": "Turn It Caracas 2026"
-  },
-  {
     "id": "10846",
     "title": "Twist 'N Turn Kyiv 2026"
   },
@@ -2104,10 +2004,6 @@
     "title": "Uppsalaligan 6: Bead - 2026"
   },
   {
-    "id": "10690",
-    "title": "UPV Open 2026"
-  },
-  {
     "id": "10932",
     "title": "Utepsa Welcome SCZ 2026"
   },
@@ -2134,10 +2030,6 @@
   {
     "id": "10895",
     "title": "VERK XVI 2026"
-  },
-  {
-    "id": "10681",
-    "title": "Victoria Dockyard Sprint 2026"
   },
   {
     "id": "10917",
@@ -2264,10 +2156,6 @@
     "title": "Woonsocket Cubikon 2026"
   },
   {
-    "id": "10686",
-    "title": "X-Madrid Open 2026"
-  },
-  {
     "id": "11206",
     "title": "York Summer 2026"
   },
@@ -2282,10 +2170,6 @@
   {
     "id": "10703",
     "title": "Zagreb Open 2026"
-  },
-  {
-    "id": "10207",
-    "title": "Zipaquira Cundinamarca III 2026"
   },
   {
     "id": "10858",

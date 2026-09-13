@@ -128,10 +128,6 @@
     "title": "Azemeis Open 2026"
   },
   {
-    "id": "10824",
-    "title": "B-Game - Bastardo Open 2026"
-  },
-  {
     "id": "11245",
     "title": "Back to School in Arraiolos 2026"
   },
@@ -464,20 +460,12 @@
     "title": "Cube Factory League Brzeziny 2026"
   },
   {
-    "id": "10809",
-    "title": "Cube Factory League Kalisz 2026"
-  },
-  {
     "id": "11338",
     "title": "Cube Girardeau 2026"
   },
   {
     "id": "10954",
     "title": "Cube4fun in Barcin 2026"
-  },
-  {
-    "id": "10842",
-    "title": "Cube4fun Lublin on POLLUB 2026"
   },
   {
     "id": "11004",
@@ -538,10 +526,6 @@
   {
     "id": "11278",
     "title": "Cubing School Sucre 2026"
-  },
-  {
-    "id": "10817",
-    "title": "Cubing Skills in Bishkek 2026"
   },
   {
     "id": "11344",
@@ -776,10 +760,6 @@
     "title": "Four Corners Orientation CO 2026"
   },
   {
-    "id": "10851",
-    "title": "Fun with Fewest Moves in Warsaw II 2026"
-  },
-  {
     "id": "10860",
     "title": "GA Cubers Pride 2026"
   },
@@ -790,10 +770,6 @@
   {
     "id": "10978",
     "title": "GAN Philippine Championship 2026"
-  },
-  {
-    "id": "10786",
-    "title": "GAN Southern Championship 2026"
   },
   {
     "id": "11058",
@@ -886,6 +862,10 @@
   {
     "id": "11018",
     "title": "Hillister Cube Hustle 2026"
+  },
+  {
+    "id": "11367",
+    "title": "Hong Kong Autumn Cube Day 2026"
   },
   {
     "id": "11156",
@@ -1208,10 +1188,6 @@
     "title": "Maru Cube Day Taiwan 2026"
   },
   {
-    "id": "10826",
-    "title": "MDQbea 2026"
-  },
-  {
     "id": "11051",
     "title": "Mental Breakdown Bangkok 2026"
   },
@@ -1332,10 +1308,6 @@
     "title": "NAC Prep in Palisades 2026"
   },
   {
-    "id": "10629",
-    "title": "Nacionales Honduras 2026"
-  },
-  {
     "id": "11149",
     "title": "Nairobi Twist & Turn 2026"
   },
@@ -1390,10 +1362,6 @@
   {
     "id": "11164",
     "title": "Norwegian Championship 2026"
-  },
-  {
-    "id": "10835",
-    "title": "NUS Mega Challenge 2026"
   },
   {
     "id": "10887",
@@ -1512,16 +1480,8 @@
     "title": "Perth Winter 2026"
   },
   {
-    "id": "10840",
-    "title": "Phalsbourg Saint Antoine 2026"
-  },
-  {
     "id": "10950",
     "title": "Philippine Fewest Moves Championship 2026"
-  },
-  {
-    "id": "10765",
-    "title": "Pickering Favourites Summer 2026"
   },
   {
     "id": "11054",
@@ -1572,10 +1532,6 @@
     "title": "Puerto Real Camaleon Open 2026"
   },
   {
-    "id": "10588",
-    "title": "Pyraminx in Phitsanulok 2026"
-  },
-  {
     "id": "10915",
     "title": "Queensland Open 2026"
   },
@@ -1604,10 +1560,6 @@
     "title": "Red Cross Spring Cleaning 2026"
   },
   {
-    "id": "10843",
-    "title": "Redhawk Slow Summer OH 2026"
-  },
-  {
     "id": "11071",
     "title": "Road to Nats Barquisimeto 2026"
   },
@@ -1626,10 +1578,6 @@
   {
     "id": "11330",
     "title": "Robinson Lifestyle Suvarnabhumi Cube Open 2026"
-  },
-  {
-    "id": "10839",
-    "title": "Rockfort City Cubing Challenge 2026"
   },
   {
     "id": "10277",
@@ -1760,10 +1708,6 @@
     "title": "Seremban Cube Challenge 2026"
   },
   {
-    "id": "10844",
-    "title": "SESI Cubatao 2026"
-  },
-  {
     "id": "11361",
     "title": "Shhherborn Summer 2026"
   },
@@ -1782,10 +1726,6 @@
   {
     "id": "11240",
     "title": "Shin Kong Cube Open - Taichung 2026"
-  },
-  {
-    "id": "10832",
-    "title": "Side N Blind Narre Warren 2026"
   },
   {
     "id": "11107",
@@ -1884,10 +1824,6 @@
     "title": "Stockholmsligan Final: Pop - 2026"
   },
   {
-    "id": "10847",
-    "title": "Strange in La Grange 2026"
-  },
-  {
     "id": "11317",
     "title": "Sumgait Fall Open 2026"
   },
@@ -1926,10 +1862,6 @@
   {
     "id": "10870",
     "title": "Taipei PBQ Open 2026"
-  },
-  {
-    "id": "10850",
-    "title": "Take Your Time Bergshamra 2026"
   },
   {
     "id": "11352",
@@ -2016,10 +1948,6 @@
     "title": "Twist 'n Turn Hyd Open 2026"
   },
   {
-    "id": "10846",
-    "title": "Twist 'N Turn Kyiv 2026"
-  },
-  {
     "id": "11339",
     "title": "Twist Fest Pune 2026"
   },
@@ -2082,10 +2010,6 @@
   {
     "id": "11094",
     "title": "Vacaciones Cuenca Open 2026"
-  },
-  {
-    "id": "10820",
-    "title": "Valdepenas Open 2026"
   },
   {
     "id": "11274",

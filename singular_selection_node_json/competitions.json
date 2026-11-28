@@ -20,10 +20,6 @@
     "title": "3x3 In San Diego C 2026"
   },
   {
-    "id": "11234",
-    "title": "4x4 Off US-40 IL 2026"
-  },
-  {
     "id": "11399",
     "title": "7th Guwahati Open 2026"
   },
@@ -34,10 +30,6 @@
   {
     "id": "11481",
     "title": "Aarhus Fall 2026"
-  },
-  {
-    "id": "11265",
-    "title": "Ahmedabad Side Events 2026"
   },
   {
     "id": "11682",
@@ -208,16 +200,8 @@
     "title": "Berlin Advent Averages 2026"
   },
   {
-    "id": "11256",
-    "title": "Bibliopen IV Cali 2026"
-  },
-  {
     "id": "11559",
     "title": "Big Cubes Madrid 2026"
-  },
-  {
-    "id": "11272",
-    "title": "Big in Bahia 2026"
   },
   {
     "id": "11661",
@@ -288,10 +272,6 @@
     "title": "Brisbane Finnish Morning 2026"
   },
   {
-    "id": "11269",
-    "title": "Brookline Favorites IV 2026"
-  },
-  {
     "id": "11815",
     "title": "BUBT Winter Open 2026"
   },
@@ -322,14 +302,6 @@
   {
     "id": "11513",
     "title": "Cairns Open 2026"
-  },
-  {
-    "id": "11191",
-    "title": "Cajun Cube Clash 2026"
-  },
-  {
-    "id": "10581",
-    "title": "Calgary Fall 2026"
   },
   {
     "id": "11773",
@@ -368,10 +340,6 @@
     "title": "Catskills Fall 2026"
   },
   {
-    "id": "11270",
-    "title": "Catskills Summer 2026"
-  },
-  {
     "id": "11808",
     "title": "Cavite Speedcubing Open XIV 2026"
   },
@@ -390,10 +358,6 @@
   {
     "id": "11659",
     "title": "Charente Open 2026"
-  },
-  {
-    "id": "11125",
-    "title": "Chattogram Cube Mania 2026"
   },
   {
     "id": "11621",
@@ -584,10 +548,6 @@
     "title": "CubingUSA New England Championship 2026"
   },
   {
-    "id": "11247",
-    "title": "Cubithon San Jose 2026"
-  },
-  {
     "id": "11617",
     "title": "Cuboss Open - Uppsala 2026"
   },
@@ -752,10 +712,6 @@
     "title": "Floripa ao Cubo 2026"
   },
   {
-    "id": "11097",
-    "title": "FMC a Montreal 2026"
-  },
-  {
     "id": "11541",
     "title": "FMC Europe 2026"
   },
@@ -766,10 +722,6 @@
   {
     "id": "11358",
     "title": "FMC Portugal Championship 2026"
-  },
-  {
-    "id": "11267",
-    "title": "FMSea Lipari 2026"
   },
   {
     "id": "11816",
@@ -1044,10 +996,6 @@
     "title": "Iowa Championship 2026"
   },
   {
-    "id": "11266",
-    "title": "Isla Cristina Open 2026"
-  },
-  {
     "id": "11623",
     "title": "Isla de Maipo Open 2026"
   },
@@ -1098,10 +1046,6 @@
   {
     "id": "11791",
     "title": "Kansai Parity Party 2026"
-  },
-  {
-    "id": "11241",
-    "title": "Kanto Summer 2026"
   },
   {
     "id": "11248",
@@ -1158,10 +1102,6 @@
   {
     "id": "11763",
     "title": "Kostelec Megaminxing 2026"
-  },
-  {
-    "id": "11025",
-    "title": "KS al Cubo Vina 2026"
   },
   {
     "id": "11470",
@@ -1398,10 +1338,6 @@
   {
     "id": "11413",
     "title": "Montauk 2026"
-  },
-  {
-    "id": "11268",
-    "title": "Montevideo Gaming House Agosto 2026"
   },
   {
     "id": "11796",
@@ -2092,20 +2028,12 @@
     "title": "Taoyuan Airport PBQ 2026"
   },
   {
-    "id": "11264",
-    "title": "Tartan Twist PA 2026"
-  },
-  {
     "id": "11410",
     "title": "Tbilisi September Open 2026"
   },
   {
     "id": "11749",
     "title": "Temecula Valley Fall 2026"
-  },
-  {
-    "id": "11262",
-    "title": "TempoCubing Oruro 2026"
   },
   {
     "id": "11599",
@@ -2144,6 +2072,10 @@
     "title": "Thirroul Beachside Twist 2026"
   },
   {
+    "id": "11830",
+    "title": "Thouare Open 2026"
+  },
+  {
     "id": "11746",
     "title": "Thuringen Open 2026"
   },
@@ -2170,10 +2102,6 @@
   {
     "id": "11243",
     "title": "Torrent: La Torre Open 2026"
-  },
-  {
-    "id": "11261",
-    "title": "Tramsheds X: Winter Saturday 2026"
   },
   {
     "id": "11275",
@@ -2334,10 +2262,6 @@
   {
     "id": "11606",
     "title": "Virginia Championship 2026"
-  },
-  {
-    "id": "11255",
-    "title": "Virginia Quiet Championship 2026"
   },
   {
     "id": "11642",
